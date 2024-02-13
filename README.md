@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Bassam Mejlaoui
 - 👀 I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, Cyber Security
 - 🌱 I’m currently learning Data Science and Cyber Security
+- 💼 I'm open to collaborating on projects related to Data Science, AI, Machine Learning, and Cyber Security.
 - 📫 How to reach me (https://www.linkedin.com/in/bassam-mejlaoui/)
 
 <!---
