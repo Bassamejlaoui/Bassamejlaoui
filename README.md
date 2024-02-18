@@ -21,19 +21,18 @@
 
 🔬 **Experience:**
 - **ALX Africa** (Feb 2024 - Present)  
-  - Apprenticeship for 4 months  
   - Remote  
   - **AI Career Essentials Program:** Currently enrolled in the AI Career Essentials program, focusing on practical web application experience enriched with AI tools, catering to career-driven individuals. The program integrates ALX Foundations with AI tools training to ensure learners stay at the cutting edge of technology expertise. It emphasizes the critical role of AI in job readiness and advancement, covering vital communication, teamwork, and leadership skills across 9 key modules.
   - Skills: Problem Solving, Critical Thinking, Communication for Impact, Employability Skills, Natural Language Processing (NLP), Programmatic Thinking
 
 - **Applied AI** (Nov 2023 - Present)  
-  - Applied AI Program for 4 months  
+  - Applied AI Program 
   - Developed by Kalkidan Betre, full-stack software engineer & open-source contributor, and Julien Barbier, the creator of Holberton School and the ALX SE program curriculum.  
   - The program offers a comprehensive learning journey through weekly projects, written tutorials, and video guides, making AI accessible and understandable to everyone. It equips participants with the knowledge and skills to be future innovators, problem solvers, and industry leaders.
   - Skills: Problem Solving, Data Science, Critical Thinking, Communication for Impact
 
 - **ALX Morocco** (May 2023 - Present)  
-  - Data Scientist Apprenticeship for 10 months  
+  - Data Scientist Apprenticeship for 15 months  
   - Casablanca, Casablanca-Settat, Morocco, Hybrid  
   - The ALX Data Science program, developed with ExploreAI, is designed for individuals with a foundational understanding of data, providing an opportunity to advance their skills in this dynamic field. The curriculum covers topics such as data modeling, SQL, data visualization, programming with Python, and cloud computing, preparing learners for entry-level roles in data science.
   - Skills: Natural Language Processing (NLP), Analyzing Text, Statistics, Data Visualization, Amazon Web Services (AWS), Rational Database Design, Microsoft Power BI, Storage and Compute Resources, Data Classification, Advanced Classification, Relational Databases, SQL, Quantitative Reasoning, Entrepreneurial Thinking, Data Structures, Problem Solving, Communication for Impact, Networking, Cloud Best Practice, Functions and Control Flow, Managing Complex Tasks, Unsupervised Learning, Spreadsheets, Cloud Computing, Exploratory Data Analysis, Team Leadership, Classification, Data Manipulation, Data visualisation and Storytelling, Data Analysis, Modul Tuning, Programmatic Thinking, Visual Storytelling, Soft Clustering, Dimensionality Reduction, Preparing Data, Data Modeling, Critical Thinking, Python (Programming Language)
