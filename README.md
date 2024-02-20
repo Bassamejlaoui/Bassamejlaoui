@@ -24,6 +24,23 @@
 - Currently enrolled in the ALX Program, contributing actively to collaborative projects and honing teamwork and communication skills.
 
 🔬 **Experience:**
+- **Younity Business Development Specialist Internship** (Feb 2024 - Present)  
+  - Embarking on a transformative journey with the Younity Business Development Specialist Internship! 
+  - **Overview:**
+    - In this immersive internship, delving into the intricacies of corporate growth, sustainable revenue systems, and effective B2C & B2B communication strategies.
+    - The program offers a unique blend of theoretical learning and hands-on experience, providing a comprehensive understanding of the dynamic world of business development.
+  - **Key Components:**
+    1. **14 Days Internship Program:** A structured curriculum designed to equip interns with practical skills, insights, and a holistic understanding of the corporate landscape.
+    2. **Real-world Projects:** Actively contributing to projects under the mentorship of industry experts, gaining valuable experience, and applying theoretical knowledge to practical scenarios.
+    3. **Data-Driven Decision-Making:** Exploring the nexus of data science and business development, understanding how data informs strategic decisions for sustainable growth.
+    4. **Collaborative Environment:** Engaging with a vibrant community of professionals, fostering collaboration, and participating in team projects that emphasize data-driven decision-making.
+  - **Expected Outcomes:**
+    - A strong foundation in business development strategies.
+    - Proficiency in crafting sustainable revenue systems.
+    - Enhanced communication skills for effective B2C & B2B interactions.
+    - Practical experience in leveraging data for strategic decision-making.
+  - **Gratitude:**
+    - Enormously thankful for the opportunity to learn and grow within the Younity community. Ready to absorb, adapt, and contribute to the dynamic landscape of business development. Here's to the journey ahead!
 - **ALX Africa** (Feb 2024 - Present)  
   - Remote  
   - **AI Career Essentials Program:** Currently enrolled in the AI Career Essentials program, focusing on practical web application experience enriched with AI tools, catering to career-driven individuals. The program integrates ALX Foundations with AI tools training to ensure learners stay at the cutting edge of technology expertise. It emphasizes the critical role of AI in job readiness and advancement, covering vital communication, teamwork, and leadership skills across 9 key modules.
