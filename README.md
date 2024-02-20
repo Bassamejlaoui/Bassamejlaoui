@@ -65,7 +65,7 @@
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/bassam-mejlaoui/) for collaborations or opportunities!
 
-https://github-profile-trophy.vercel.app/?mejbass=ryo-ma&row=2&column=3
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=0e75b6&style=flat" alt="mejbass" /> </p>
 
 <!---
 mejbass/mejbass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
