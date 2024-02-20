@@ -67,10 +67,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mejbass" alt="mejbass" /></a> </p>
 
-
-https://github-profile-trophy.vercel.app/?mejbass=ryo-ma&column=3&margin-w=15&margin-h=15
-
-
 <!---
 mejbass/mejbass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
