@@ -19,6 +19,8 @@
 - Pursuing an Engineer's degree in Data Science at ExploreAI Academy, specializing in ML, data analysis, and statistical modeling.
 - Currently enrolled in the ALX Program, contributing actively to collaborative projects and honing teamwork and communication skills.
 
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+<img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
 🔬 **Experience:**
 - **ALX Africa** (Feb 2024 - Present)  
   - Remote  
@@ -37,10 +39,6 @@
   - The ALX Data Science program, developed with ExploreAI, is designed for individuals with a foundational understanding of data, providing an opportunity to advance their skills in this dynamic field. The curriculum covers topics such as data modeling, SQL, data visualization, programming with Python, and cloud computing, preparing learners for entry-level roles in data science.
   - Skills: Natural Language Processing (NLP), Analyzing Text, Statistics, Data Visualization, Amazon Web Services (AWS), Rational Database Design, Microsoft Power BI, Storage and Compute Resources, Data Classification, Advanced Classification, Relational Databases, SQL, Quantitative Reasoning, Entrepreneurial Thinking, Data Structures, Problem Solving, Communication for Impact, Networking, Cloud Best Practice, Functions and Control Flow, Managing Complex Tasks, Unsupervised Learning, Spreadsheets, Cloud Computing, Exploratory Data Analysis, Team Leadership, Classification, Data Manipulation, Data visualisation and Storytelling, Data Analysis, Modul Tuning, Programmatic Thinking, Visual Storytelling, Soft Clustering, Dimensionality Reduction, Preparing Data, Data Modeling, Critical Thinking, Python (Programming Language)
 
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-
-
-<img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/bassam-mejlaoui/) for collaborations or opportunities!
 <!---
 mejbass/mejbass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
