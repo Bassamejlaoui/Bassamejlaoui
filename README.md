@@ -6,7 +6,7 @@
 <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
 <img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
 ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&color=0e75b6&style=flat&label=Profile%20views&labelColor=0e75b6&count_private=true&include_all_commits=true&v=2" alt="mejbass" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&color=0e75b6&style=flat&label=Profile%20views&labelColor=0e75b6&count_private=true&include_all_commits=true&v=2000" alt="mejbass" /> </p>
 
 🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
 
