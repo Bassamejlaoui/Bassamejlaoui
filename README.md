@@ -27,18 +27,15 @@
 - **Younity Business Development Specialist Internship** (Feb 2024 - Present)  
   - Embarking on a transformative journey with the Younity Business Development Specialist Internship! 
   
-- **ALX Africa** (Feb 2024 - Present)  
-  - Remote  
-  - **AI Career Essentials Program:** Currently enrolled in the AI Career Essentials program, focusing on practical web application experience enriched with AI tools, catering to career-driven individuals. The program integrates ALX Foundations with AI tools training to ensure learners stay at the cutting edge of technology expertise. It emphasizes the critical role of AI in job readiness and advancement, covering vital communication, teamwork, and leadership skills across 9 key modules.
+- **AI Career Essentials** (Feb 2024 - Present)  
+  - Currently enrolled in the AI Career Essentials program, focusing on practical web application experience enriched with AI tools, catering to career-driven individuals. The program integrates ALX Foundations with AI tools training to ensure learners stay at the cutting edge of technology expertise. It emphasizes the critical role of AI in job readiness and advancement, covering vital communication, teamwork, and leadership skills across 9 key modules.
   - Skills: Problem Solving, Critical Thinking, Communication for Impact, Employability Skills, Natural Language Processing (NLP), Programmatic Thinking
 
-- **Applied AI** (Nov 2023 - Present)  
-  - Applied AI Program 
-  - Developed by Kalkidan Betre, full-stack software engineer & open-source contributor, and Julien Barbier, the creator of Holberton School and the ALX SE program curriculum.  
+- **Applied AI** (Nov 2023 - Present)   
   - The program offers a comprehensive learning journey through weekly projects, written tutorials, and video guides, making AI accessible and understandable to everyone. It equips participants with the knowledge and skills to be future innovators, problem solvers, and industry leaders.
   - Skills: Problem Solving, Data Science, Critical Thinking, Communication for Impact
 
-- **ALX Morocco** (May 2023 - Present)  
+- **Data Science - ALX Morocco / Explore AI Academy** (May 2023 - Present)  
   - Data Scientist Apprenticeship for 15 months  
   - Casablanca, Casablanca-Settat, Morocco, Hybrid  
   - The ALX Data Science program, developed with ExploreAI, is designed for individuals with a foundational understanding of data, providing an opportunity to advance their skills in this dynamic field. The curriculum covers topics such as data modeling, SQL, data visualization, programming with Python, and cloud computing, preparing learners for entry-level roles in data science.
