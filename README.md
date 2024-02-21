@@ -5,7 +5,7 @@
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
 <img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
-![Contributor  Mejbass](https://img.shields.io/badge/Mejbass-Data Scientist-4baaaa.svg)
+[![GitHub Mejbass](https://img.shields.io/github/contributors-anon/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Data Scientist)](https://github.com/EbookFoundation/free-programming-books/graphs/contributors)    
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&color=0e75b6&style=flat&label=Profile%20views&labelColor=0e75b6&count_private=true&include_all_commits=true&v=2000" alt="mejbass" /> </p>
 
