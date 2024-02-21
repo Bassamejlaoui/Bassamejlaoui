@@ -21,6 +21,7 @@
 🎓 **Certifications and Expertise:**
 - Acquired 68 certificates in diverse areas, including Data Analytics, Cybersecurity, Cloud Computing, and AI, underlining a comprehensive skill set.
 - Proficient in networking with CompTIA Network+ certification and hands-on experience in cloud services like Microsoft Azure and AWS.
+- Holding two certificates from Harvard university in Computer Science 
 
 📚 **Education Journey:**
 - Completed a rigorous Mathematics curriculum at the Open Source Society University, collaborating with prestigious institutions such as Harvard, MIT, and Arizona State University.
