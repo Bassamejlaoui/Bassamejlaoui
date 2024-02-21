@@ -5,7 +5,7 @@
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
 <img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
-![Contributor  Mejbass](https://img.shields.io/badge/Contributor%20Covenant-Mejbass-4baaaa.svg)
+![Contributor  Mejbass](https://img.shields.io/badge/Data%20Scientist-Mejbass-4baaaa.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&color=0e75b6&style=flat&label=Profile%20views&labelColor=0e75b6&count_private=true&include_all_commits=true&v=2000" alt="mejbass" /> </p>
 
