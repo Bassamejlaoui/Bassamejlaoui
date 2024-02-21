@@ -2,6 +2,10 @@
 
 👀 I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
+<p align="center">
+<img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="150"/>
+</p>
+
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
 <img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
