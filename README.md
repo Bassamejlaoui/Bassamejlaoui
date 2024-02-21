@@ -26,21 +26,7 @@
 🔬 **Experience:**
 - **Younity Business Development Specialist Internship** (Feb 2024 - Present)  
   - Embarking on a transformative journey with the Younity Business Development Specialist Internship! 
-  - **Overview:**
-    - In this immersive internship, delving into the intricacies of corporate growth, sustainable revenue systems, and effective B2C & B2B communication strategies.
-    - The program offers a unique blend of theoretical learning and hands-on experience, providing a comprehensive understanding of the dynamic world of business development.
-  - **Key Components:**
-    1. **14 Days Internship Program:** A structured curriculum designed to equip interns with practical skills, insights, and a holistic understanding of the corporate landscape.
-    2. **Real-world Projects:** Actively contributing to projects under the mentorship of industry experts, gaining valuable experience, and applying theoretical knowledge to practical scenarios.
-    3. **Data-Driven Decision-Making:** Exploring the nexus of data science and business development, understanding how data informs strategic decisions for sustainable growth.
-    4. **Collaborative Environment:** Engaging with a vibrant community of professionals, fostering collaboration, and participating in team projects that emphasize data-driven decision-making.
-  - **Expected Outcomes:**
-    - A strong foundation in business development strategies.
-    - Proficiency in crafting sustainable revenue systems.
-    - Enhanced communication skills for effective B2C & B2B interactions.
-    - Practical experience in leveraging data for strategic decision-making.
-  - **Gratitude:**
-    - Enormously thankful for the opportunity to learn and grow within the Younity community. Ready to absorb, adapt, and contribute to the dynamic landscape of business development. Here's to the journey ahead!
+  
 - **ALX Africa** (Feb 2024 - Present)  
   - Remote  
   - **AI Career Essentials Program:** Currently enrolled in the AI Career Essentials program, focusing on practical web application experience enriched with AI tools, catering to career-driven individuals. The program integrates ALX Foundations with AI tools training to ensure learners stay at the cutting edge of technology expertise. It emphasizes the critical role of AI in job readiness and advancement, covering vital communication, teamwork, and leadership skills across 9 key modules.
@@ -62,8 +48,6 @@
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&color=0e75b6&style=flat&label=Profile%20views&labelColor=0e75b6&count_private=true&include_all_commits=true&v=2000" alt="mejbass" /> </p>
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/bassam-mejlaoui/) for collaborations or opportunities!
 
