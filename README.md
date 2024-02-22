@@ -15,9 +15,9 @@
 To see all the other badges are [here](https://www.credly.com/users/bassam-mejlaoui/badges)
 
 <!--START_SECTION:badges-->
-[![Introduction to Cybersecurity](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/6c9700a4-1b14-4453-b77a-701c17b07aba/public_url "Introduction to Cybersecurity")
-[![Data Analytics Essentials](https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png)](https://www.credly.com/badges/2128606a-a870-43ef-830d-79dbf4267178/public_url "Data Analytics Essentials")
-[![Introduction to Data Science](https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/3ff5ecc3-4f33-477b-b83f-9a4cbcef8ed7/public_url "Introduction to Data Science")
+[![Introduction to Cybersecurity](https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/6c9700a4-1b14-4453-b77a-701c17b07aba/public_url "Introduction to Cybersecurity")
+[![Data Analytics Essentials](https://images.credly.com/size/100x100/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png)](https://www.credly.com/badges/2128606a-a870-43ef-830d-79dbf4267178/public_url "Data Analytics Essentials")
+[![Introduction to Data Science](https://images.credly.com/size/100x100/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/3ff5ecc3-4f33-477b-b83f-9a4cbcef8ed7/public_url "Introduction to Data Science")
 
 🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
 
