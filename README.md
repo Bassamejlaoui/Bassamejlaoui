@@ -15,12 +15,20 @@
 To see all the other badges are [here](https://www.credly.com/users/bassam-mejlaoui/badges)
 
 <!--START_SECTION:badges-->
+**Cisco Certifications**
 [![Introduction to Cybersecurity](https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/6c9700a4-1b14-4453-b77a-701c17b07aba/public_url "Introduction to Cybersecurity")
 [![Data Analytics Essentials](https://images.credly.com/size/100x100/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png)](https://www.credly.com/badges/2128606a-a870-43ef-830d-79dbf4267178/public_url "Data Analytics Essentials")
 [![Introduction to Data Science](https://images.credly.com/size/100x100/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/3ff5ecc3-4f33-477b-b83f-9a4cbcef8ed7/public_url "Introduction to Data Science")
 [![Networking Basics](https://images.credly.com/size/100x100/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/c357de45-387a-4a3b-aaa9-7e4494c1924a/public_url "Networking Basics")
 [![Networking Devices and Initial Configuration](https://images.credly.com/size/100x100/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](https://www.credly.com/badges/9397fdf1-9d18-4ab3-8d1b-1868c1abdad2/public_url "Networking Devices and Initial Configuration")
 [![Endpoint Security](https://images.credly.com/size/100x100/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](https://www.credly.com/badges/0168f751-dac9-43e9-b045-ba5dc48e83da/public_url "Endpoint Security")
+
+
+**IBM Certifications**
+[![IBM Cloud Essentials](https://images.credly.com/size/100x100/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](https://www.credly.com/badges/c432aec3-f4c2-498a-aadb-09dc078f1df9/public_url "IBM Cloud Essentials")
+[![Networking Basics](https://images.credly.com/size/100x100/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/c357de45-387a-4a3b-aaa9-7e4494c1924a/public_url "Networking Basics")
+[![Python for Data Science](https://images.credly.com/size/100x100/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/19cd09c2-6b2d-41f7-8725-876d17756d52/public_url "Python for Data Science")
+[![Data Science with Scala](https://images.credly.com/size/100x100/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png)](https://www.credly.com/badges/69a76db6-ab7d-4b17-bc7a-debe9f81ef56/public_url "Data Science with Scala")
 
 🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
 
