@@ -28,7 +28,7 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 **IBM Certifications**
 
 [![IBM Cloud Essentials](https://images.credly.com/size/100x100/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](https://www.credly.com/badges/c432aec3-f4c2-498a-aadb-09dc078f1df9/public_url "IBM Cloud Essentials")
-[![Networking Basics](https://images.credly.com/size/100x100/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/c357de45-387a-4a3b-aaa9-7e4494c1924a/public_url "Networking Basics")
+[![Data Science for Business - Level 1](https://images.credly.com/size/100x100/images/f2f9716d-7be0-47ef-b4ad-c8d3b481b9d7/Data_Sci_Business_Level_1_-_CC_-_2019.png)](https://www.credly.com/badges/85077b6f-3e50-47ae-86e4-14e1e0289f69/public_url "Data Science for Business - Level 1")
 [![Python for Data Science](https://images.credly.com/size/100x100/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/19cd09c2-6b2d-41f7-8725-876d17756d52/public_url "Python for Data Science")
 [![Data Science with Scala](https://images.credly.com/size/100x100/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png)](https://www.credly.com/badges/69a76db6-ab7d-4b17-bc7a-debe9f81ef56/public_url "Data Science with Scala")
 
