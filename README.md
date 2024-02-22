@@ -18,6 +18,9 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 [![Introduction to Cybersecurity](https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/6c9700a4-1b14-4453-b77a-701c17b07aba/public_url "Introduction to Cybersecurity")
 [![Data Analytics Essentials](https://images.credly.com/size/100x100/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png)](https://www.credly.com/badges/2128606a-a870-43ef-830d-79dbf4267178/public_url "Data Analytics Essentials")
 [![Introduction to Data Science](https://images.credly.com/size/100x100/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/3ff5ecc3-4f33-477b-b83f-9a4cbcef8ed7/public_url "Introduction to Data Science")
+[![Networking Basics](https://images.credly.com/size/100x100/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/c357de45-387a-4a3b-aaa9-7e4494c1924a/public_url "Networking Basics")
+[![Networking Devices and Initial Configuration](https://images.credly.com/size/100x100/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](https://www.credly.com/badges/9397fdf1-9d18-4ab3-8d1b-1868c1abdad2/public_url "Networking Devices and Initial Configuration")
+[![Endpoint Security](https://images.credly.com/size/100x100/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](https://www.credly.com/badges/0168f751-dac9-43e9-b045-ba5dc48e83da/public_url "Endpoint Security")
 
 🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
 
