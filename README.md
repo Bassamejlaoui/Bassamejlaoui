@@ -1,5 +1,7 @@
 ### Hi there! 👋 I'm Bassam Mejlaoui.
 
+**`Data Scientist`**
+
 👀 I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
 <p align="center">
