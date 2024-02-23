@@ -12,6 +12,7 @@
 <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
 <img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
 [![CS50 Harvard Courses](https://img.shields.io/badge/CS50Harvard%20Courses-Completed-red)](#completed-CS50-harvard-courses)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
 
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
