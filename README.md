@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Bassam Mejlaoui.
 
-**`Data Scientist from`** <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
+**`Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> `** 
 
 👀 I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
