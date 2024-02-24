@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Bassam Mejlaoui.
 
-**`Data Scientist`**
+**`Data Scientist from [![Morocco](badges/MA.svg)](badges/MA.svg)`**
 
 👀 I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
