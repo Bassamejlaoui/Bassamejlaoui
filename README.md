@@ -37,11 +37,6 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 [![Python for Data Science](https://images.credly.com/size/100x100/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/19cd09c2-6b2d-41f7-8725-876d17756d52/public_url "Python for Data Science")
 [![Data Science with Scala](https://images.credly.com/size/100x100/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png)](https://www.credly.com/badges/69a76db6-ab7d-4b17-bc7a-debe9f81ef56/public_url "Data Science with Scala")
 
-**Microsoft Certifications**
-
-[![Microsoft Azure AI Fundamentals: AI Overview](https://learn.microsoft.com/en-us/learn/achievements/get-started-with-artificial-intelligence-on-azure.svg)](https://learn.microsoft.com/api/achievements/share/en-us/58869868/N7S4UKSF?sharingId=3255575A31A1EF69 "Microsoft Azure AI Fundamentals: AI Overview")
-
-
 🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
 
 💼 I'm open to collaborating on projects related to Data Science, AI, Machine Learning, and Cyber Security.
