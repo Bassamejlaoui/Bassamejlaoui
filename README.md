@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Bassam Mejlaoui.
+ ### Hi there! 👋 I'm Bassam Mejlaoui. :octocat:
 
 **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/>  
  
