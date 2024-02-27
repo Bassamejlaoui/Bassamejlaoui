@@ -1,7 +1,15 @@
 ### Hi there! 👋 I'm Bassam Mejlaoui.
 
 **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/>  
-
+## Profile Views:
+<!--
+<p align="center">
+    <a href="https://visitcount.itsvg.in/api?id=danieleverest&label=Profile%20Views&color=6&icon=1&pretty=true">
+        <img src="https://visitcount.itsvg.in/api?id=danieleverest&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
+    </a>
+</p>
+ -->
+ 
 👀 I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
 <p align="center">
