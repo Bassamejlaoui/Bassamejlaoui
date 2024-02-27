@@ -1,8 +1,8 @@
- ### Hi there! 👋 I'm Bassam Mejlaoui. :octocat:
+ ### Hi there! 👋 I'm Bassam Mejlaoui. 
 
 **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/>  
  
-👀 I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
+:octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
 <p align="center">
 <img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="150"/>
