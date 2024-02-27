@@ -1,14 +1,8 @@
 ### Hi there! 👋 I'm Bassam Mejlaoui.
 
-</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF732&center=true&vCenter=true&width=435&lines=I'm+a+Data+Scientist" alt="Typing SVG" /></a>
-
 **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/>  
  
 👀 I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=0e75b6&style=flat" alt="mejbass" /> </p>
-
 
 <p align="center">
 <img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="150"/>
