@@ -28,7 +28,7 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 [![Networking Basics](https://images.credly.com/size/100x100/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/c357de45-387a-4a3b-aaa9-7e4494c1924a/public_url "Networking Basics")
 [![Networking Devices and Initial Configuration](https://images.credly.com/size/100x100/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](https://www.credly.com/badges/9397fdf1-9d18-4ab3-8d1b-1868c1abdad2/public_url "Networking Devices and Initial Configuration")
 [![Endpoint Security](https://images.credly.com/size/100x100/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](https://www.credly.com/badges/0168f751-dac9-43e9-b045-ba5dc48e83da/public_url "Endpoint Security")
-
+[![English for IT 1](https://images.credly.com/size/100x100/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png)](https://www.credly.com/earner/earned/badge/d013ef0d-b201-4f88-bf51-ad08c875af7f "English for IT 1")
 
 **IBM Certifications**
 
