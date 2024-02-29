@@ -14,6 +14,8 @@
 [![CS50 Harvard Courses](https://img.shields.io/badge/CS50Harvard%20Courses-Completed-red)](#completed-CS50-harvard-courses)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
 
+[![Mejbass GitHub stats](https://github-readme-stats.vercel.app/api?username=Mejbass)](https://github.com/Mejbass/github-readme-stats)
+
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
