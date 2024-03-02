@@ -14,6 +14,8 @@
 [![CS50 Harvard Courses](https://img.shields.io/badge/CS50Harvard%20Courses-Completed-red)](#completed-CS50-harvard-courses)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mejbass&layout=compact)](https://github.com/mejbass/github-readme-stats)
+
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 To see all the other badges are [here](https://www.credly.com/users/bassam-mejlaoui/badges)
