@@ -4,9 +4,12 @@
  
 :octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
+Currently I'm Studying Computer Science at CS50 Harvard University, and taking the Stanford Code in Place course, I am also certified as a Junior Cybersecurity Analyst by Cisco.
+
 <p align="center">
-<img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="150"/>
-</p>
+<img width="200px" src="https://i.imgur.com/Jj740Yd.png" alt="logo"height="200"> 
+<img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/82601797.png" alt="Logo"height="200">
+
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
@@ -37,6 +40,7 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 [![Python for Data Science](https://images.credly.com/size/100x100/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/19cd09c2-6b2d-41f7-8725-876d17756d52/public_url "Python for Data Science")
 [![Data Science with Scala](https://images.credly.com/size/100x100/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png)](https://www.credly.com/badges/69a76db6-ab7d-4b17-bc7a-debe9f81ef56/public_url "Data Science with Scala")
 
+
 🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
 
 💼 I'm open to collaborating on projects related to Data Science, AI, Machine Learning, and Cyber Security.
@@ -55,29 +59,18 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 - Pursuing an Engineer's degree in Data Science at ExploreAI Academy, specializing in ML, data analysis, and statistical modeling.
 - Currently enrolled in the ALX Program, contributing actively to collaborative projects and honing teamwork and communication skills.
 
-🔬 **Experience:**
-| Experience  | Description | Skills | Duration | environments and arrangements
-| ------------- | ------------- | ------------- | ------------- | -------------
-| **British Airways Data Scientist Intern** |  As a Data Science intern at British Airways, I am gaining practical experience by engaging in tasks that mirror real-life job responsibilities within the Data Science department. This role is part of an innovative program designed to simulate working conditions at British Airways, allowing me to develop critical skills in data analysis, machine learning, and predictive modeling. | Skills: Data Visualization and Storytelling · Microsoft Power BI · Problem Solving · Analytical Skills · Data Analysis · Visual Storytelling · Python Programming · Web Scraping · Predictive Modeling · Presentation Skills| (April 2024 - Present) | Remote
-| **PWC Switzerland Power BI Specialist Internship** |  As a Power BI Specialist at PWS Switzerland, I play a vital role in utilizing data to support informed decision-making and improve business performance. My responsibilities include developing, implementing, and maintaining Power BI solutions that deliver critical insights to various stakeholders within the organization. | Skills: Data visualisation and Storytelling · Microsoft Power BI · Problem Solving · Analytical Skills · Data Analysis · Data Visualization · Visual Storytelling | (March 2024 - April 2024) | Remote
-|**Younity Business Development Specialist Internship** | Embarking on a transformative journey with the Younity Business Development Specialist Internship! | Skills: Problem Solving, Critical Thinking, Communication for Impact, Employability Skills, Sales Acumen, Networking, Market Research, Data Analysis, Adaptability, Time Management, Creativity, Team Collaboration | (Feb 2024 - March 2024) | Remote
-|**AI Career Essentials** | Currently enrolled in the AI Career Essentials program, focusing on practical web application experience enriched with AI tools, catering to career-driven individuals. The program integrates ALX Foundations with AI tools training to ensure learners stay at the cutting edge of technology expertise. It emphasizes the critical role of AI in job readiness and advancement, covering vital communication, teamwork, and leadership skills across 9 key modules | Skills: Problem Solving, Critical Thinking, Communication for Impact, Employability Skills, Natural Language Processing (NLP), Programmatic Thinking | (Feb 2024 - Present) | Remote
-|**Applied AI** | The program offers a comprehensive learning journey through weekly projects, written tutorials, and video guides, making AI accessible and understandable to everyone. It equips participants with the knowledge and skills to be future innovators, problem solvers, and industry leaders. | Skills: Problem Solving, Data Science, Critical Thinking, Communication for Impact | (Nov 2023 - Present) | Remote 
-|**Data Science - ALX Morocco / Explore AI Academy** | The ALX Data Science program, developed with ExploreAI, is designed for individuals with a foundational understanding of data, providing an opportunity to advance their skills in this dynamic field. The curriculum covers topics such as data modeling, SQL, data visualization, programming with Python, and cloud computing, preparing learners for entry-level roles in data science. | Skills: Natural Language Processing (NLP), Analyzing Text, Statistics, Data Visualization, Amazon Web Services (AWS), Rational Database Design, Microsoft Power BI, Storage and Compute Resources, Data Classification, Advanced Classification, Relational Databases, SQL, Quantitative Reasoning, Entrepreneurial Thinking, Data Structures, Problem Solving, Communication for Impact, Networking, Cloud Best Practice, Functions and Control Flow, Managing Complex Tasks, Unsupervised Learning, Spreadsheets, Cloud Computing, Exploratory Data Analysis, Team Leadership, Classification, Data Manipulation, Data visualisation and Storytelling, Data Analysis, Modul Tuning, Programmatic Thinking, Visual Storytelling, Soft Clustering, Dimensionality Reduction, Preparing Data, Data Modeling, Critical Thinking, Python (Programming Language) | (May 2023 - Present) | Hybrid Apprenticeship
-
 
 👀 **Tools**:
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge=mongodb&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badgemicrosoft-excel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h9-tect&show_icons=true&locale=en&layout=compact" alt="h9-tect" /></p>
-
-
-
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/bassam-mejlaoui/) for collaborations or opportunities!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mejbass" alt="mejbass" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h9-tect&show_icons=true&locale=en&layout=compact" alt="h9-tect" /></p>
 
 <!---
 mejbass/mejbass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
