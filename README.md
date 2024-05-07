@@ -4,7 +4,7 @@
  
 :octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
-Currently I'm Studying Computer Science at CS50 Harvard University, and taking the Stanford Code in Place course, I am also certified as a Junior Cybersecurity Analyst by Cisco.
+Currently I'm Studying Computer Science at CS50 Harvard University, and taking the Stanford Code in Place.
 
 <p align="center">
 <img width="200px" src="https://i.imgur.com/Jj740Yd.png" alt="logo"height="200"> 
