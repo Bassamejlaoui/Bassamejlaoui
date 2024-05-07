@@ -11,11 +11,11 @@ Currently I'm Studying Computer Science at CS50 Harvard University, and taking t
 <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/82601797.png" alt="Logo"height="200">
 
 
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
+[![CS50 Harvard Courses](https://img.shields.io/badge/CS50Harvard%20Courses-Completed-red)](#completed-CS50-harvard-courses)
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
 <img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
-[![CS50 Harvard Courses](https://img.shields.io/badge/CS50Harvard%20Courses-Completed-red)](#completed-CS50-harvard-courses)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
