@@ -10,6 +10,7 @@ Currently I'm Studying Computer Science at CS50 Harvard University, and taking t
 <img width="200px" src="https://i.imgur.com/Jj740Yd.png" alt="logo"height="200"> 
 <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/82601797.png" alt="Logo"height="200">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=0e75b6&style=flat" alt="Mejbass" /> </p>
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories) [![CS50 Harvard Courses](https://img.shields.io/badge/CS50Harvard%20Courses-Completed-red)](#completed-CS50-harvard-courses)
 
