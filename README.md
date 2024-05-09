@@ -16,6 +16,10 @@ Currently I'm Studying Computer Science at CS50 Harvard University, and taking t
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
 <img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
+![Static Badge](https://img.shields.io/badge/IBM%20AI%20Engineering-Specialization-%20?style=flat&logo=coursera&color=blue)
+![Static Badge](https://img.shields.io/badge/Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)
+![Static Badge](https://img.shields.io/badge/Applied%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue&link=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F7BVVEK72RG7K)
+![Static Badge](https://img.shields.io/badge/Introduction%20to%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
