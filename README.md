@@ -1,6 +1,6 @@
  ### Hi there! 👋 I'm Bassam Mejlaoui. 
 
-:octocat: **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/>
+**`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/>
  
 :octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
@@ -52,6 +52,24 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge=mongodb&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badgemicrosoft-excel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
+🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
+
+💼 I'm open to collaborating on projects related to Data Science, AI, Machine Learning, and Cyber Security.
+
+🚀 **Project Highlights:**
+- Spearheaded transformative projects such as "Urban Transportation Rejuvenated", "Moroccan currency converter", and "Coke-Machine", showcasing my ability to deliver impactful solutions.
+- Currently engaged in ongoing initiatives like the "Bitcoin Price Index" and "Moroccan Traditional Food Restaurant Order Calculator", demonstrating a commitment to continuous innovation.
+
+🎓 **Certifications and Expertise:**
+- Acquired 68 certificates in diverse areas, including Data Analytics, Cybersecurity, Cloud Computing, and AI, underlining a comprehensive skill set.
+- Proficient in networking with CompTIA Network+ certification and hands-on experience in cloud services like Microsoft Azure and AWS.
+- Holding two certificates from Harvard university in Computer Science 
+
+📚 **Education Journey:**
+- Completed a rigorous Mathematics curriculum at the Open Source Society University, collaborating with prestigious institutions such as Harvard, MIT, and Arizona State University.
+- Pursuing an Engineer's degree in Data Science at ExploreAI Academy, specializing in ML, data analysis, and statistical modeling.
+- Currently enrolled in the ALX Program, contributing actively to collaborative projects and honing teamwork and communication skills.
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/bassam-mejlaoui/) for collaborations or opportunities!
 
