@@ -48,26 +48,6 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 [![Python for Data Science](https://images.credly.com/size/100x100/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/19cd09c2-6b2d-41f7-8725-876d17756d52/public_url "Python for Data Science")
 [![Data Science with Scala](https://images.credly.com/size/100x100/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png)](https://www.credly.com/badges/69a76db6-ab7d-4b17-bc7a-debe9f81ef56/public_url "Data Science with Scala")
 
-
-🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
-
-💼 I'm open to collaborating on projects related to Data Science, AI, Machine Learning, and Cyber Security.
-
-🚀 **Project Highlights:**
-- Spearheaded transformative projects such as "Urban Transportation Rejuvenated", "Moroccan currency converter", and "Coke-Machine", showcasing my ability to deliver impactful solutions.
-- Currently engaged in ongoing initiatives like the "Bitcoin Price Index" and "Moroccan Traditional Food Restaurant Order Calculator", demonstrating a commitment to continuous innovation.
-
-🎓 **Certifications and Expertise:**
-- Acquired 68 certificates in diverse areas, including Data Analytics, Cybersecurity, Cloud Computing, and AI, underlining a comprehensive skill set.
-- Proficient in networking with CompTIA Network+ certification and hands-on experience in cloud services like Microsoft Azure and AWS.
-- Holding two certificates from Harvard university in Computer Science 
-
-📚 **Education Journey:**
-- Completed a rigorous Mathematics curriculum at the Open Source Society University, collaborating with prestigious institutions such as Harvard, MIT, and Arizona State University.
-- Pursuing an Engineer's degree in Data Science at ExploreAI Academy, specializing in ML, data analysis, and statistical modeling.
-- Currently enrolled in the ALX Program, contributing actively to collaborative projects and honing teamwork and communication skills.
-
-
 👀 **Tools**:
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge=mongodb&logoColor=white)
