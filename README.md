@@ -75,7 +75,7 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
     <img src="https://github.com/mejbass/mejbass/assets/130122304/4f658750-3160-468b-84a1-923ebd0cd76c" alt="IBM Cloud Essentials" style="width: 100px; height: 100px;">
 </a> 
 
-**Find me around the web** 🌎: 
+## Find me around the web 🌎: 
 - Check my Website <a href="https://mejlaouibassam.wixsite.com/bassam-mejlaoui"> Bassam</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/bassam-mejlaoui">LinkedIn</a> 📫
 - My Portfolio <a href="https://www.datascienceportfol.io/BassamMejlaoui">Portfolio</a> 💼
