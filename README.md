@@ -12,7 +12,7 @@ Currently I'm Studying Computer Science at CS50 Harvard University, and taking t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=yellow&style=flat" alt="Mejbass" /> </p>
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories) [![CS50 Harvard Courses](https://img.shields.io/badge/CS50Harvard%20Courses-Completed-red)](#completed-CS50-harvard-courses)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
 
 **`Dive into my Trello boards where I share resources and strategies for mastering Information Technology, Deep Learning, Machine Learning, and acing interviews.`**
 
@@ -21,6 +21,8 @@ Currently I'm Studying Computer Science at CS50 Harvard University, and taking t
 [![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-orange.svg)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
 
 **`What I'm I Studying?`**
+
+[![CS50 Harvard Courses](https://img.shields.io/badge/CS50Harvard%20Courses-Completed-red)](#completed-CS50-harvard-courses)
 
 [![Open Source Society University - Computer Science Student 2019](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
