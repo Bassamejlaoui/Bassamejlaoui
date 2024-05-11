@@ -16,7 +16,7 @@ Currently I'm Studying Computer Science at CS50 Harvard University, and taking t
 
 **`Dive into my Trello boards where I share resources and strategies for mastering Information Technology, Deep Learning, Machine Learning, and acing interviews.`**
 
-[![My Trello - Deep Learning | Machine Learning](https://img.shields.io/badge/Trello-Deep%20Learning-green.svg)](https://trello.com/b/IGr2yS1o/deep-learning-machine-learning)
+[![My Trello - Deep Learning | Machine Learning](https://img.shields.io/badge/Trello-Deep%20Learning%20|%20Machine%20Learning-green.svg)](https://trello.com/b/IGr2yS1o/deep-learning-machine-learning)
 [![My Trello - Interviews Mastering](https://img.shields.io/badge/Trello-Interviews%20Mastering-yellow.svg)](https://trello.com/b/UvALWukS/interviews)
 [![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-orange.svg)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
 
