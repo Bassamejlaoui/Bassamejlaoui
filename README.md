@@ -113,7 +113,6 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 ## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![Master IT](https://svg.bookmark.style/api?url=https://github.com/mejbass/MASTER-IT&mode=light&style=horizontal)](https://github.com/mejbass/MASTER-IT)
-[![Taymiyyah's Beverage Analyzer Analogy Engine](https://svg.bookmark.style/api?url=https://github.com/mejbass/AWESOME-Taymiyyah-s-Beverage-Analyzer-Analogy-Engine&mode=light&style=horizontal)](https://github.com/mejbass/AWESOME-Taymiyyah-s-Beverage-Analyzer-Analogy-Engine)
 
 ## :octocat: Find me around the web 🌎: 
 - Check my Website <a href="https://mejlaouibassam.wixsite.com/bassam-mejlaoui"> Bassam</a> 🏓
