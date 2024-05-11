@@ -1,8 +1,10 @@
  ### Hi there! 👋 I'm Bassam Mejlaoui. 
 
 **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/>
- 
-:octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
+
+<h2>  :octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
+
+
 
 <div class="row" style="padding: 20px; margin-top: 20px; margin-down: 50px">
 	<img align="center" alt="Gif" height="220" width="100%" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/5251806/172527073-8b11f1a9-c1c9-4d25-b18b-93aa1e37f2de.gif">
@@ -10,7 +12,7 @@
 
 
 
-<h2> :technologist: Currently I'm Studying Computer Science at CS50 Harvard University, and taking the Stanford Code in Place Curriculum.
+:technologist: Currently I'm Studying Computer Science at CS50 Harvard University, and taking the Stanford Code in Place Curriculum.
 
 <p align="center">
 <img width="200px" src="https://i.imgur.com/Jj740Yd.png" alt="logo"height="200"> 
