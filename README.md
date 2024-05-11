@@ -101,19 +101,17 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 - Pursuing an Engineer's degree in Data Science at ExploreAI Academy, specializing in ML, data analysis, and statistical modeling.
 - Currently enrolled in the ALX Program, contributing actively to collaborative projects and honing teamwork and communication skills.
 
-<a href="https://www.credly.com/badges/c432aec3-f4c2-498a-aadb-09dc078f1df9/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/mejbass/mejbass/assets/130122304/4f658750-3160-468b-84a1-923ebd0cd76c" alt="IBM Cloud Essentials" style="width: 100px; height: 100px;">
-</a> 
-
-## Find me around the web 🌎: 
+## :octocat: Find me around the web 🌎: 
 - Check my Website <a href="https://mejlaouibassam.wixsite.com/bassam-mejlaoui"> Bassam</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/bassam-mejlaoui">LinkedIn</a> 📫
 - My Portfolio <a href="https://www.datascienceportfol.io/BassamMejlaoui">Portfolio</a> 💼
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mejbass" alt="mejbass" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mejbass&show_icons=true&locale=en&layout=compact" alt="Mejbass" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h9-tect&show_icons=true&locale=en&layout=compact" alt="h9-tect" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mejbass&theme=light)
+
+<p align="left"> <a href="https://github.com/Mejbass/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mejbass" alt="Mejbass" /></a> </p>
 
 
 
