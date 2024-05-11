@@ -128,8 +128,6 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 
 <p align="left"> <a href="https://github.com/Mejbass/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mejbass" alt="Mejbass" /></a> </p>
 
-
-
 <!---
 mejbass/mejbass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
