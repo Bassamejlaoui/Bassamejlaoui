@@ -10,15 +10,14 @@ Currently I'm Studying Computer Science at CS50 Harvard University, and taking t
 <img width="200px" src="https://i.imgur.com/Jj740Yd.png" alt="logo"height="200"> 
 <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/82601797.png" alt="Logo"height="200">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=0e75b6&style=flat" alt="Mejbass" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=yellow&style=flat" alt="Mejbass" /> </p>
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories) [![CS50 Harvard Courses](https://img.shields.io/badge/CS50Harvard%20Courses-Completed-red)](#completed-CS50-harvard-courses)
 
 
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+[![Open Source Society University - Computer Science Student 2019](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
-<img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
-
+<img alt="Open Source Society University - Bioinformatics Student 2023" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
 
 ![Static Badge](https://img.shields.io/badge/IBM%20AI%20Engineering-Specialization-%20?style=flat&logo=coursera&color=blue)
 ![Static Badge](https://img.shields.io/badge/Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)
