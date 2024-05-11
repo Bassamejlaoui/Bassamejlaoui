@@ -4,7 +4,13 @@
  
 :octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
-Currently I'm Studying Computer Science at CS50 Harvard University, and taking the Stanford Code in Place Curriculum.
+<div class="row" style="padding: 20px; margin-top: 20px; margin-down: 50px">
+	<img align="center" alt="Gif" height="220" width="100%" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/5251806/172527073-8b11f1a9-c1c9-4d25-b18b-93aa1e37f2de.gif">
+</div>
+
+
+
+:octocat: Currently I'm Studying Computer Science at CS50 Harvard University, and taking the Stanford Code in Place Curriculum.
 
 <p align="center">
 <img width="200px" src="https://i.imgur.com/Jj740Yd.png" alt="logo"height="200"> 
