@@ -24,11 +24,11 @@
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
 
-**`Dive into my Trello boards where I share resources and strategies for mastering Information Technology, Deep Learning, Machine Learning, and acing interviews.`**
+**`Dive into my Trello boards where I share resources and strategies for mastering Information Technology, learn Deep Learning, Machine Learning, and acing interviews.`**
 
+[![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-orange.svg)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
 [![My Trello - Deep Learning | Machine Learning](https://img.shields.io/badge/Trello-Deep%20Learning%20|%20Machine%20Learning-green.svg)](https://trello.com/b/IGr2yS1o/deep-learning-machine-learning)
 [![My Trello - Interviews Mastering](https://img.shields.io/badge/Trello-Interviews%20Mastering-yellow.svg)](https://trello.com/b/UvALWukS/interviews)
-[![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-orange.svg)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
 
 **`What I'm I Studying?`**
 
@@ -120,7 +120,6 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 - Check my Website <a href="https://mejlaouibassam.wixsite.com/bassam-mejlaoui"> Bassam</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/bassam-mejlaoui">LinkedIn</a> 📫
 - My Portfolio <a href="https://www.datascienceportfol.io/BassamMejlaoui">Portfolio</a> 💼
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mejbass&show_icons=true&locale=en&layout=compact" alt="Mejbass" /></p>
 
