@@ -1,6 +1,9 @@
- ### Hi there! 👋 I'm Bassam Mejlaoui. 
+ ### Hi there! 👋 I'm Bassam Mejlaoui.  
 
-**`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/>
+**`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
+
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
+
 
 :octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
@@ -21,8 +24,6 @@
 
 	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=yellow&style=flat" alt="Mejbass" /> </p>
-
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
 
 **`Dive into my Trello boards where I share resources and strategies for mastering Information Technology, learn Deep Learning, Machine Learning, and acing interviews.`**
 
@@ -86,7 +87,7 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 	<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 	<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 	<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-	<a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+	<a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p> 
 
 <!--Night Owl image-->
 <div>
@@ -121,6 +122,7 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 - Check my Website <a href="https://mejlaouibassam.wixsite.com/bassam-mejlaoui"> Bassam</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/bassam-mejlaoui">LinkedIn</a> 📫
 - My Portfolio <a href="https://www.datascienceportfol.io/BassamMejlaoui">Portfolio</a> 💼
+- Contact me on Twitter <a href="https://x.com/bassamejlaoui">Twitter</a> 📫
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mejbass&show_icons=true&locale=en&layout=compact" alt="Mejbass" /></p>
 
