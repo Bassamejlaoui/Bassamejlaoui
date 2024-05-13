@@ -147,6 +147,8 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 
 [![Master IT](https://svg.bookmark.style/api?url=https://github.com/mejbass/MASTER-IT&mode=light&style=horizontal)](https://github.com/mejbass/MASTER-IT)
 
+[![Awesome Deep Fake](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-Deep-Fake&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-Deep-Fake)
+
 ## :octocat: Find me around the web 🌎: 
 - Check my Website <a href="https://mejlaouibassam.wixsite.com/bassam-mejlaoui"> Bassam</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/bassam-mejlaoui">LinkedIn</a> 📫
