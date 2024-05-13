@@ -8,12 +8,7 @@
 
 :octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
-
-
-<div class="row" style="padding: 20px; margin-top: 20px; margin-down: 50px">
-	<img align="center" alt="Gif" height="220" width="100%" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/5251806/172527073-8b11f1a9-c1c9-4d25-b18b-93aa1e37f2de.gif">
-</div>
-
+<img width="1834" alt="Make your README" src="https://github.com/mejbass/mejbass/assets/130122304/71a2ede7-6de0-4c8d-b5b4-4bf5a8d334aa">
 
 
 :technologist: Currently I'm Studying Computer Science at CS50 Harvard University, taking the Stanford Code in Place Curriculum and Studying Data Science at Explore AI Academy.
