@@ -164,6 +164,12 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 
 <p align="left"> <a href="https://github.com/Mejbass/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mejbass" alt="Mejbass" /></a> </p>
 
+
+<a href="https://github.com/mejbass">
+  <img align="right" width="150" height="150" src="https://github.com/mejbass/mejbass/blob/master/My-Octocat.gif" alt="gif of My Octocat">
+</a>
+
+
 <!---
 mejbass/mejbass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
