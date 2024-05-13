@@ -3,7 +3,6 @@
 **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
-
 [![OSSU Arabic Computer Science Contributor](https://img.shields.io/badge/OSSU%20Arabic%20Computer%20Science%20Contributor-blue.svg)](https://github.com/ossu/computer-science-arabic)
 
 
