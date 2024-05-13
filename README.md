@@ -1,4 +1,4 @@
- ### Hi there! 👋 I'm Bassam Mejlaoui.  
+ ### Hi there! 👋 I'm Bassam Mejlaoui<img height="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/81e903be-5f38-419c-be01-f95e68698526"> .
 
 **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
 
