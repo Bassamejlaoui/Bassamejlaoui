@@ -10,6 +10,7 @@
 
 <img width="1834" alt="Make your README" src="https://github.com/mejbass/mejbass/assets/130122304/71a2ede7-6de0-4c8d-b5b4-4bf5a8d334aa">
 
+-------
 
 :technologist: Currently I'm Studying Computer Science at CS50 Harvard University, taking the Stanford Code in Place Curriculum and Studying Data Science at Explore AI Academy.
 
@@ -125,10 +126,12 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/server-nginx-informational?style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/server-jenkins-informational?style=flat&logo=jenkins&logoColor=white)
 
-👀 **Tools**:
+👀 **Tools:**
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge=mongodb&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badgemicrosoft-excel&logoColor=white)  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
+:technologist: **More tools:**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -154,6 +157,8 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 <!--Start Intro-->               
 
+-------
+	
 🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
 
 💼 **Profesional Experience**
@@ -187,6 +192,8 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 - Completed a rigorous Mathematics curriculum at the Open Source Society University, collaborating with prestigious institutions such as Harvard, MIT, and Arizona State University.
 - Pursuing an Engineer's degree in Data Science at ExploreAI Academy, specializing in ML, data analysis, and statistical modeling.
 - Currently enrolled in the ALX Program, contributing actively to collaborative projects and honing teamwork and communication skills.
+
+-------
 
 ## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
