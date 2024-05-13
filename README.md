@@ -4,6 +4,8 @@
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
 
+[![OSSU Arabic Computer Science Contributor](https://img.shields.io/badge/OSSU%20Arabic%20Computer%20Science%20Contributor-blue.svg)](https://github.com/ossu/computer-science-arabic)
+
 
 :octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
@@ -115,7 +117,23 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
 
-💼 I'm open to collaborating on projects related to Data Science, AI, Machine Learning, and Cyber Security.
+💼 **Profesional Experience**
+
+Power BI Analyst at PWC Switzerland ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+Data Analyst at British Airways <img src="https://github.com/mejbass/mejbass/assets/130122304/02e093e3-ab41-458f-9de1-6c3491968faa" width="95"/>
+
+Data Science course Contributor at Microsoft <img src="https://github.com/mejbass/mejbass/assets/130122304/943773a4-e8ef-4fd8-bb83-544ad5bacd1b" width="95"/>
+
+Ossu Arabic Computer Science Curriculum Contributor [![OSSU Arabic Computer Science Contributor](https://img.shields.io/badge/OSSU%20Arabic%20Computer%20Science%20Contributor-blue.svg)](https://github.com/ossu/computer-science-arabic)
+
+Freecodecamp Arabic Curriculum Contributor and translator <img src="https://github.com/mejbass/mejbass/assets/130122304/4b6de49e-7119-45d1-ab50-797dfd80f0db" width="200"/>
+
+Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/assets/130122304/df32e037-9941-4fe5-bea2-1b7f0ab7b8a9" width="30"/>
+
+
+🌱 I'm open to collaborating on projects related to Data Science, AI, Machine Learning, and Cyber Security.
+
 
 🚀 **Project Highlights:**
 - Spearheaded transformative projects such as "Urban Transportation Rejuvenated", "Moroccan currency converter", and "Coke-Machine", showcasing my ability to deliver impactful solutions.
