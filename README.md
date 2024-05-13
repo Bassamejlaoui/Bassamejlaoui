@@ -119,7 +119,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 💼 **Profesional Experience**
 
-Power BI Analyst at PWC Switzerland ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+Power BI Analyst at PWC Switzerland <img src="https://github.com/mejbass/mejbass/assets/130122304/dbc5d053-a7f4-4753-a9bc-d902198d75fc" width="95"/>
 
 Data Analyst at British Airways <img src="https://github.com/mejbass/mejbass/assets/130122304/02e093e3-ab41-458f-9de1-6c3491968faa" width="95"/>
 
