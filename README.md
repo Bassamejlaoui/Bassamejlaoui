@@ -229,11 +229,17 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 
 [![Jailbreaking Censored/Aligned LLMs](https://svg.bookmark.style/api?url=https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs&mode=light&style=horizontal)](https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs)
 
-## :octocat: Find me around the web 🌎: 
+
+## :octocat: Find me around the web 🌎:  
+<a href="https://github.com/mejbass">
+  <img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+</a>
+
 - Check my Website <a href="https://mejlaouibassam.wixsite.com/bassam-mejlaoui"> Bassam</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/bassam-mejlaoui">LinkedIn</a> 📫
 - My Portfolio <a href="https://www.datascienceportfol.io/BassamMejlaoui">Portfolio</a> 💼
 - Contact me on Twitter <a href="https://x.com/bassamejlaoui">Twitter</a> 📫
+-------
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mejbass&show_icons=true&locale=en&layout=compact" alt="Mejbass" /></p>
 
