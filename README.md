@@ -12,12 +12,13 @@
 
 -------
 
-:technologist: Currently I'm Studying Computer Science at CS50 Harvard University, taking the Stanford Code in Place Curriculum and Studying Data Science at Explore AI Academy.
+:technologist: Currently I'm Studying Computer Science at CS50 Harvard University, taking the Stanford Code in Place Curriculum and Studying Data Science at Explore AI Academy and ALX.
 
 <p align="center">
 <img width="200px" src="https://i.imgur.com/Jj740Yd.png" alt="logo"height="200"> 
 <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/82601797.png" alt="Logo"height="200">
 <img width="200px" height="200px" src="https://github.com/mejbass/mejbass/assets/130122304/b254ff5b-7b18-46d0-8a9d-77323cb23e08" alt="Logo">
+<img width=200px src="https://avatars.githubusercontent.com/u/108390987?s=280&v=4" alt="ALx Logo" height="200" style="max-width: 100%;">
 
 	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=yellow&style=flat" alt="Mejbass" /> </p>
