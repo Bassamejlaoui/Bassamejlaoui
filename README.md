@@ -235,10 +235,10 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
   <img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a>
 
-- Check my Website <a href="https://mejlaouibassam.wixsite.com/bassam-mejlaoui"> Bassam</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/bassam-mejlaoui">LinkedIn</a> 📫
-- My Portfolio <a href="https://www.datascienceportfol.io/BassamMejlaoui">Portfolio</a> 💼
-- Contact me on Twitter <a href="https://x.com/bassamejlaoui">Twitter</a> 📫
+- Check my [Website](https://mejlaouibassam.wixsite.com/bassam-mejlaoui) 🏓
+- Sharing updates on [Linkedin](https://www.linkedin.com/in/bassam-mejlaoui) 
+- My [Portfolio](https://www.datascienceportfol.io/BassamMejlaoui) 💼
+- Contact me on [Twitter](https://x.com/bassamejlaoui) 📫
 -------
 
 
