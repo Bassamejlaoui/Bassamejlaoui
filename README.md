@@ -241,7 +241,9 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 - Contact me on Twitter <a href="https://x.com/bassamejlaoui">Twitter</a> 📫
 -------
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mejbass&show_icons=true&locale=en&layout=compact" alt="Mejbass" /></p>
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mejbass&theme=light)
 
