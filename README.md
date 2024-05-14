@@ -24,39 +24,45 @@
 
 **`Dive into my Trello boards where I share resources and strategies for mastering Information Technology, learn Deep Learning, Machine Learning, and acing interviews.`**
 
-[![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-orange.svg)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
-[![My Trello - Deep Learning | Machine Learning](https://img.shields.io/badge/Trello-Deep%20Learning%20|%20Machine%20Learning-green.svg)](https://trello.com/b/IGr2yS1o/deep-learning-machine-learning)
-[![My Trello - Interviews Mastering](https://img.shields.io/badge/Trello-Interviews%20Mastering-yellow.svg)](https://trello.com/b/UvALWukS/interviews)
+[![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-%230074D9.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
+[![My Trello - Deep Learning | Machine Learning](https://img.shields.io/badge/Trello-Deep%20Learning%20|%20Machine%20Learning-%232ECC40.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/IGr2yS1o/deep-learning-machine-learning)
+[![My Trello - Interviews Mastering](https://img.shields.io/badge/Trello-Interviews%20Mastering-%23FF851B.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/UvALWukS/interviews)
 
 **`What I'm I Studying?`**
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.freecodecamp.org/learn/data-analysis-with-python/">
-    <img src="https://img.shields.io/badge/Data%20Analysis%20with%20Python-%2F?logo=freecodecamp&color=white&style=for-the-badge&logoColor=blue" alt="Data Analysis with Python" style="max-width: 100%;">
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.freecodecamp.org/learn/data-visualization/">
-    <img src="https://img.shields.io/badge/Data%20Visualization-%2F?logo=freecodecamp&color=white&style=for-the-badge&logoColor=blue" alt="Data Visualization" style="max-width: 100%;">
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.freecodecamp.org/learn/relational-database/">
-    <img src="https://img.shields.io/badge/Relational%20Database-%2F?logo=freecodecamp&color=white&style=for-the-badge&logoColor=blue" alt="Relational Database" style="max-width: 100%;">
-</a>
-
-[![CS50's Introduction to Databases with SQL Completed](https://img.shields.io/badge/CS50's%20Introduction%20to%20Databases%20with%20SQL-Completed-red)](https://cs50.harvard.edu/sql/2024/)
-[![CS50's Introduction to Programming with Python Completed](https://img.shields.io/badge/CS50's%20Introduction%20to%20Programming%20with%20Python-Completed-red)](https://cs50.harvard.edu/python/2022/)
-[![CS50's Introduction to Cybersecurity Completed](https://img.shields.io/badge/CS50's%20Introduction%20to%20Cybersecurity-Completed-red)](https://cs50.harvard.edu/cybersecurity/2023/)
-[![CS50's Introduction to Artificial Intelligence with Python Completed](https://img.shields.io/badge/CS50's%20Introduction%20to%20Artificial%20Intelligence%20with%20Python-Completed-red)](https://cs50.harvard.edu/ai/2024/)
-
-[![CS50’s Understanding Technology in Progress](https://img.shields.io/badge/CS50’s%20Understanding%20Technology-In%20Progress-yellow)](https://cs50.harvard.edu/technology/2017/)
-[![CS50’s Computer Science for Business Professionals in Progress](https://img.shields.io/badge/CS50’s%20Computer%20Science%20for%20Business%20Professionals-In%20Progress-yellow)](https://cs50.harvard.edu/business/2017/)
 
 [![Open Source Society University - Computer Science Student 2019 Completed](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 [![Open Source Society University - Data Science Completed](https://img.shields.io/badge/OSSU-data--science-blue.svg)](https://github.com/ossu/data-science)
 [![Open Source Society University - Bioinformatics](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/ossu/bioinformatics)
 
+[![FreeCodeCamp - Data Analysis with Python](https://img.shields.io/badge/Data%20Analysis%20with%20Python-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+[![FreeCodeCamp - Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/data-visualization/)
+[![FreeCodeCamp - Relational Database](https://img.shields.io/badge/Relational%20Database-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/relational-database/)
 
-![Static Badge](https://img.shields.io/badge/IBM%20AI%20Engineering-Specialization-%20?style=flat&logo=coursera&color=blue)
-![Static Badge](https://img.shields.io/badge/Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)
-![Static Badge](https://img.shields.io/badge/Applied%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue&link=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F7BVVEK72RG7K)
-![Static Badge](https://img.shields.io/badge/Introduction%20to%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)
+
+[![edX - CS50's Introduction to Computer Science](https://img.shields.io/badge/CS50's%20Introduction%20to%20Computer%20Science-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+[![edX - CS50's Introduction to Programming with Python](https://img.shields.io/badge/CS50's%20Introduction%20to%20Programming%20with%20Python-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?webview=false&campaign=CS50%27s+Introduction+to+Programming+with+Python&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
+[![edX - CS50's Introduction to Artificial Intelligence with Python](https://img.shields.io/badge/CS50's%20Introduction%20to%20Artificial%20Intelligence%20with%20Python-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python?webview=false&campaign=CS50%27s+Introduction+to+Artificial+Intelligence+with+Python&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
+[![edX - CS50's Introduction to Cybersecurity](https://img.shields.io/badge/CS50's%20Introduction%20to%20Cybersecurity-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity?webview=false&campaign=CS50%27s+Introduction+to+Cybersecurity&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
+[![edX - CS50's Understanding Technology](https://img.shields.io/badge/CS50's%20Understanding%20Technology-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology?webview=false&campaign=CS50%27s+Understanding+Technology&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
+[![edX - CS50's Introduction to Databases with SQL](https://img.shields.io/badge/CS50's%20Introduction%20to%20Databases%20with%20SQL-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql?webview=false&campaign=CS50%27s+Introduction+to+Databases+with+SQL&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
+
+[![Datacamp - Data Science for Business](https://img.shields.io/badge/Data%20Science%20for%20Business-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/data-science-for-business/)
+[![Datacamp - Supervised Learning with Scikit-Learn](https://img.shields.io/badge/Supervised%20Learning%20with%20Scikit%20Learn-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn/)
+[![Datacamp - Understanding Data Science](https://img.shields.io/badge/Understanding%20Data%20Science-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/understanding-data-science/)
+[![Datacamp - Introduction to Python for Data Science](https://img.shields.io/badge/Introduction%20to%20Python%20for%20Data%20Science-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+[![Datacamp - Introduction to R](https://img.shields.io/badge/Introduction%20to%20R-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/free-introduction-to-r/)
+[![Datacamp - Introduction to Python for Data Science](https://img.shields.io/badge/Introduction%20to%20Python%20for%20Data%20Science-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/intro-to-python-for-data-science/)
+
+[![Coursera - IBM AI Engineering Specialization](https://img.shields.io/badge/IBM%20AI%20Engineering%20Specialization-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K)
+[![Coursera - Data Science Specialization](https://img.shields.io/badge/Data%20Science%20Specialization-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K)
+[![Coursera - Applied Data Science Specialization](https://img.shields.io/badge/Applied%20Data%20Science%20Specialization-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white&link=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F7BVVEK72RG7K)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K)
+[![Coursera - Introduction to Data Science Specialization](https://img.shields.io/badge/Introduction%20to%20Data%20Science%20Specialization-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K)
+
+[![Codecademy - Analyze Data with SQL](https://img.shields.io/badge/Analyze%20Data%20with%20SQL-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/learn/paths/analyze-data-with-sql)
+[![Codecademy - BI Data Analyst](https://img.shields.io/badge/BI%20Data%20Analyst-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/learn/paths/bi-data-analyst)
+[![Codecademy - Machine Learning & AI Engineering Foundations](https://img.shields.io/badge/Machine%20Learning%20%26%20AI%20Engineering%20Foundations-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/learn/paths/machine-learning-ai-engineering-foundations)
+[![Codecademy - Data Engineer](https://img.shields.io/badge/Data%20Engineer-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/learn/paths/data-engineer)
+[![Codecademy - Data Science NLP](https://img.shields.io/badge/Data%20Science%20NLP-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/learn/paths/data-science-nlp)
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
