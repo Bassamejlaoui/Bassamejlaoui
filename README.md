@@ -3,7 +3,7 @@
 **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
-[![OSSU Arabic Computer Science Contributor](https://img.shields.io/badge/OSSU%20Arabic%20Computer%20Science%20Contributor-blue.svg)](https://github.com/ossu/computer-science-arabic)
+[![OSSU Arabic Computer Science Curriculum Contributor](https://img.shields.io/badge/OSSU-Arabic%20Computer%20Science%20Curicculum%20Contributor-blue?style=flat&logoColor=grey)](https://github.com/ossu/computer-science-arabic)
 
 
 :octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
@@ -30,11 +30,28 @@
 
 **`What I'm I Studying?`**
 
-[![CS50 Harvard Courses](https://img.shields.io/badge/CS50Harvard%20Courses-Completed-red)](#completed-CS50-harvard-courses)
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.freecodecamp.org/learn/data-analysis-with-python/">
+    <img src="https://img.shields.io/badge/Data%20Analysis%20with%20Python-%2F?logo=freecodecamp&color=white&style=for-the-badge&logoColor=blue" alt="Data Analysis with Python" style="max-width: 100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.freecodecamp.org/learn/data-visualization/">
+    <img src="https://img.shields.io/badge/Data%20Visualization-%2F?logo=freecodecamp&color=white&style=for-the-badge&logoColor=blue" alt="Data Visualization" style="max-width: 100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.freecodecamp.org/learn/relational-database/">
+    <img src="https://img.shields.io/badge/Relational%20Database-%2F?logo=freecodecamp&color=white&style=for-the-badge&logoColor=blue" alt="Relational Database" style="max-width: 100%;">
+</a>
 
-[![Open Source Society University - Computer Science Student 2019](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-<img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
-<img alt="Open Source Society University - Bioinformatics Student 2023" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
+[![CS50's Introduction to Databases with SQL Completed](https://img.shields.io/badge/CS50's%20Introduction%20to%20Databases%20with%20SQL-Completed-red)](https://cs50.harvard.edu/sql/2024/)
+[![CS50's Introduction to Programming with Python Completed](https://img.shields.io/badge/CS50's%20Introduction%20to%20Programming%20with%20Python-Completed-red)](https://cs50.harvard.edu/python/2022/)
+[![CS50's Introduction to Cybersecurity Completed](https://img.shields.io/badge/CS50's%20Introduction%20to%20Cybersecurity-Completed-red)](https://cs50.harvard.edu/cybersecurity/2023/)
+[![CS50's Introduction to Artificial Intelligence with Python Completed](https://img.shields.io/badge/CS50's%20Introduction%20to%20Artificial%20Intelligence%20with%20Python-Completed-red)](https://cs50.harvard.edu/ai/2024/)
+
+[![CS50’s Understanding Technology in Progress](https://img.shields.io/badge/CS50’s%20Understanding%20Technology-In%20Progress-yellow)](https://cs50.harvard.edu/technology/2017/)
+[![CS50’s Computer Science for Business Professionals in Progress](https://img.shields.io/badge/CS50’s%20Computer%20Science%20for%20Business%20Professionals-In%20Progress-yellow)](https://cs50.harvard.edu/business/2017/)
+
+[![Open Source Society University - Computer Science Student 2019 Completed](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+[![Open Source Society University - Data Science Completed](https://img.shields.io/badge/OSSU-data--science-blue.svg)](https://github.com/ossu/data-science)
+[![Open Source Society University - Bioinformatics](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/ossu/bioinformatics)
+
 
 ![Static Badge](https://img.shields.io/badge/IBM%20AI%20Engineering-Specialization-%20?style=flat&logo=coursera&color=blue)
 ![Static Badge](https://img.shields.io/badge/Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)
