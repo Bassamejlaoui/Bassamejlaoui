@@ -227,6 +227,8 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 
 [![Awesome Deep Fake](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-Deep-Fake&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-Deep-Fake)
 
+[![Jailbreaking Censored/Aligned LLMs](https://svg.bookmark.style/api?url=https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs&mode=light&style=horizontal)](https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs)
+
 ## :octocat: Find me around the web 🌎: 
 - Check my Website <a href="https://mejlaouibassam.wixsite.com/bassam-mejlaoui"> Bassam</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/bassam-mejlaoui">LinkedIn</a> 📫
