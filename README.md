@@ -28,6 +28,19 @@
 [![My Trello - Deep Learning | Machine Learning](https://img.shields.io/badge/Trello-Deep%20Learning%20|%20Machine%20Learning-%232ECC40.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/IGr2yS1o/deep-learning-machine-learning)
 [![My Trello - Interviews Mastering](https://img.shields.io/badge/Trello-Interviews%20Mastering-%23FF851B.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/UvALWukS/interviews)
 
+## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+[![Master IT](https://svg.bookmark.style/api?url=https://github.com/mejbass/MASTER-IT&mode=light&style=horizontal)](https://github.com/mejbass/MASTER-IT)
+
+[![Awesome Deep Fake](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-Deep-Fake&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-Deep-Fake)
+
+[![Jailbreaking Censored/Aligned LLMs](https://svg.bookmark.style/api?url=https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs&mode=light&style=horizontal)](https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs)
+
+[![Voices in the Machine - AI Speech Generation](https://svg.bookmark.style/api?url=https://github.com/mejbass/Voices-in-the-Machine-AI-Speech-Generation&mode=light&style=horizontal)](https://github.com/mejbass/Voices-in-the-Machine-AI-Speech-Generation)
+
+[![Voice Cloning, Translation & Transcription](https://svg.bookmark.style/api?url=https://github.com/mejbass/Voice-Cloning-Translation-Transcription&mode=light&style=horizontal)](https://github.com/mejbass/Voice-Cloning-Translation-Transcription)
+
+
 **`What I'm I Studying?`**
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=for-the-badge)](https://github.com/ossu/computer-science)
@@ -228,15 +241,6 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 - Currently enrolled in the ALX Program, contributing actively to collaborative projects and honing teamwork and communication skills.
 
 -------
-
-## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-[![Master IT](https://svg.bookmark.style/api?url=https://github.com/mejbass/MASTER-IT&mode=light&style=horizontal)](https://github.com/mejbass/MASTER-IT)
-
-[![Awesome Deep Fake](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-Deep-Fake&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-Deep-Fake)
-
-[![Jailbreaking Censored/Aligned LLMs](https://svg.bookmark.style/api?url=https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs&mode=light&style=horizontal)](https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs)
-
 
 ## :octocat: Find me around the web 🌎:  
 <a href="https://github.com/mejbass">
