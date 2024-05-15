@@ -30,9 +30,14 @@
 
 **`What I'm I Studying?`**
 
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=for-the-badge)](https://github.com/ossu/computer-science) ![Done 2019 Student](https://img.shields.io/badge/status-done%202019%20Student-green.svg?style=for-the-badge)
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=for-the-badge)](https://github.com/ossu/computer-science)
+[![2019/2022 Student](https://img.shields.io/badge/status-2019%2F2022%20Student-blue.svg?style=for-the-badge)](#)
+![Done](https://img.shields.io/badge/Done-green.svg?style=for-the-badge)
 
-[![Open Source Society University - Data Science](https://img.shields.io/badge/OSSU-data--science-blue.svg?style=for-the-badge)](https://github.com/ossu/data-science) ![In Progress 2023 Student](https://img.shields.io/badge/status-in--progress%202023%20Student-yellow.svg?style=for-the-badge)
+
+[![Open Source Society University - Data Science](https://img.shields.io/badge/OSSU-data--science-blue.svg?style=for-the-badge)](https://github.com/ossu/data-science)
+[![2023 Student](https://img.shields.io/badge/status-2023%20Student-blue.svg?style=for-the-badge)](#)
+![In Progress](https://img.shields.io/badge/In%20Progress-yellow.svg?style=for-the-badge)
 
 [![Open Source Society University - Bioinformatics](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg?style=for-the-badge)](https://github.com/ossu/bioinformatics) ![In Progress](https://img.shields.io/badge/status-in--progress-yellow.svg?style=for-the-badge)
 
