@@ -40,8 +40,9 @@
 
 [![Voice Cloning, Translation & Transcription](https://svg.bookmark.style/api?url=https://github.com/mejbass/Voice-Cloning-Translation-Transcription&mode=light&style=horizontal)](https://github.com/mejbass/Voice-Cloning-Translation-Transcription)
 
+-----
 
-**`What I'm I Studying?`**
+:octocat: **`What I'm I Studying?`** 
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=for-the-badge)](https://github.com/ossu/computer-science)
 [![2019/2022 Student](https://img.shields.io/badge/status-2019%2F2022%20Student-blue.svg?style=for-the-badge)](#)
@@ -251,6 +252,7 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/bassam-mejlaoui) 
 - My [Portfolio](https://www.datascienceportfol.io/BassamMejlaoui) 💼
 - Contact me on [Twitter](https://x.com/bassamejlaoui) 📫
+
 -------
 
 
