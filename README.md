@@ -2,9 +2,8 @@
 
 **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple?style=for-the-badge)](#github-repositories)
-[![OSSU Arabic Computer Science Curriculum Contributor](https://img.shields.io/badge/OSSU-Arabic%20Computer%20Science%20Curicculum%20Contributor-blue?style=for-the-badge&logoColor=grey)](https://github.com/ossu/computer-science-arabic)
-
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
+[![OSSU Arabic Computer Science Curriculum Contributor](https://img.shields.io/badge/OSSU-Arabic%20Computer%20Science%20Curicculum%20Contributor-blue?style=flat&logoColor=grey)](https://github.com/ossu/computer-science-arabic)
 
 :octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
 
