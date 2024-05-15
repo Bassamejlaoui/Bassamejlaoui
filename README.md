@@ -40,6 +40,8 @@
 
 [![Voice Cloning, Translation & Transcription](https://svg.bookmark.style/api?url=https://github.com/mejbass/Voice-Cloning-Translation-Transcription&mode=light&style=horizontal)](https://github.com/mejbass/Voice-Cloning-Translation-Transcription)
 
+[![Build your own Blokchain](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN)
+
 -----
 
 :octocat: **`What I'm I Studying?`** 
