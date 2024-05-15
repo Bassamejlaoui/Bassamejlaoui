@@ -252,7 +252,7 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/bassam-mejlaoui) 
 - My [Portfolio](https://www.datascienceportfol.io/BassamMejlaoui) 💼
 - Contact me on [Twitter](https://x.com/bassamejlaoui) 📫
-
+- Reach me out on Discord: Samej2023
 -------
 
 
