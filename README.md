@@ -2,8 +2,8 @@
 
 **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
-[![OSSU Arabic Computer Science Curriculum Contributor](https://img.shields.io/badge/OSSU-Arabic%20Computer%20Science%20Curicculum%20Contributor-blue?style=flat&logoColor=grey)](https://github.com/ossu/computer-science-arabic)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple?style=for-the-badge)](#github-repositories)
+[![OSSU Arabic Computer Science Curriculum Contributor](https://img.shields.io/badge/OSSU-Arabic%20Computer%20Science%20Curicculum%20Contributor-blue?style=for-the-badge&logoColor=grey)](https://github.com/ossu/computer-science-arabic)
 
 
 :octocat: I’m interested in Data Science, Computer Science, AI, Machine Learning, Networking, and Cyber Security.
@@ -31,9 +31,12 @@
 
 **`What I'm I Studying?`**
 
-[![Open Source Society University - Computer Science Student 2019 Completed](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-[![Open Source Society University - Data Science Completed](https://img.shields.io/badge/OSSU-data--science-blue.svg)](https://github.com/ossu/data-science)
-[![Open Source Society University - Bioinformatics](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/ossu/bioinformatics)
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=for-the-badge)](https://github.com/ossu/computer-science) ![Done 2019 Student](https://img.shields.io/badge/status-done%202019%20Student-green.svg?style=for-the-badge)
+
+[![Open Source Society University - Data Science](https://img.shields.io/badge/OSSU-data--science-blue.svg?style=for-the-badge)](https://github.com/ossu/data-science) ![In Progress 2023 Student](https://img.shields.io/badge/status-in--progress%202023%20Student-yellow.svg?style=for-the-badge)
+
+[![Open Source Society University - Bioinformatics](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg?style=for-the-badge)](https://github.com/ossu/bioinformatics) ![In Progress](https://img.shields.io/badge/status-in--progress-yellow.svg?style=for-the-badge)
+
 
 [![FreeCodeCamp - Data Analysis with Python](https://img.shields.io/badge/Data%20Analysis%20with%20Python-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 [![FreeCodeCamp - Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/data-visualization/)
