@@ -30,7 +30,7 @@
 
 ## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Master IT](https://svg.bookmark.style/api?url=https://github.com/mejbass/MASTER-IT&mode=light&style=horizontal)](https://github.com/mejbass/MASTER-IT)
+[![Using AI to Write Codes: Autocomplete to Autopilot - Working with Coding Assistants](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-using-AI-to-Write-Codes&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-using-AI-to-Write-Codes)
 
 [![Awesome Deep Fake](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-Deep-Fake&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-Deep-Fake)
 
