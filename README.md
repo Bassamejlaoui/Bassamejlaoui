@@ -34,8 +34,11 @@
 | Title | Summary |
 |---|---|
 | [Voice Cloning, Translation & Transcription: Revolutionizing Communication](https://medium.com/@bassammejlaoui/voice-cloning-translation-transcription-revolutionizing-communication-a6fc11d49ac7) | This article explores the cutting-edge technology of voice cloning, which enables the precise replication and recreation of human voices. It discusses the potential applications of this innovation, highlighting its transformative impact on communication, human-machine interaction, and various other fields. |
-
+----
 <!--START_SECTION:badges-->
+<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+To see all the other badges are [here](https://www.credly.com/users/bassam-mejlaoui/badges)
 **Cisco Certifications**
 
 [![Junior Cybersecurity Analyst Career Path](https://images.credly.com/size/100x100/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png)](https://www.credly.com/badges/b69eec94-21b5-4ebf-9f16-eb5cd0709c7e/public_urll "Junior Cybersecurity Analyst Career Path")
@@ -78,11 +81,6 @@
 [![Build your own Blokchain](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN)
 
 -----
-<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
-
-To see all the other badges are [here](https://www.credly.com/users/bassam-mejlaoui/badges)
-
-
 :octocat: **`What I'm I Studying?`** 
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=for-the-badge)](https://github.com/ossu/computer-science)
