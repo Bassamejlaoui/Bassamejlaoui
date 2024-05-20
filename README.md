@@ -35,26 +35,6 @@
 |---|---|
 | [Voice Cloning, Translation & Transcription: Revolutionizing Communication](https://medium.com/@bassammejlaoui/voice-cloning-translation-transcription-revolutionizing-communication-a6fc11d49ac7) | This article explores the cutting-edge technology of voice cloning, which enables the precise replication and recreation of human voices. It discusses the potential applications of this innovation, highlighting its transformative impact on communication, human-machine interaction, and various other fields. |
 
-
-## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
-
-[![Using AI to Write Codes: Autocomplete to Autopilot - Working with Coding Assistants](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-using-AI-to-Write-Codes&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-using-AI-to-Write-Codes)
-
-[![Awesome Deep Fake](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-Deep-Fake&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-Deep-Fake)
-
-[![Jailbreaking Censored/Aligned LLMs](https://svg.bookmark.style/api?url=https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs&mode=light&style=horizontal)](https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs)
-
-[![Voices in the Machine - AI Speech Generation](https://svg.bookmark.style/api?url=https://github.com/mejbass/Voices-in-the-Machine-AI-Speech-Generation&mode=light&style=horizontal)](https://github.com/mejbass/Voices-in-the-Machine-AI-Speech-Generation)
-
-[![Voice Cloning, Translation & Transcription](https://svg.bookmark.style/api?url=https://github.com/mejbass/Voice-Cloning-Translation-Transcription&mode=light&style=horizontal)](https://github.com/mejbass/Voice-Cloning-Translation-Transcription)
-
-[![Build your own Blokchain](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN)
-
------
-<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
-
-To see all the other badges are [here](https://www.credly.com/users/bassam-mejlaoui/badges)
-
 <!--START_SECTION:badges-->
 **Cisco Certifications**
 
@@ -81,8 +61,28 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 </a>
 
 
+-----
+
+## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
+
+[![Using AI to Write Codes: Autocomplete to Autopilot - Working with Coding Assistants](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-using-AI-to-Write-Codes&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-using-AI-to-Write-Codes)
+
+[![Awesome Deep Fake](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-Deep-Fake&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-Deep-Fake)
+
+[![Jailbreaking Censored/Aligned LLMs](https://svg.bookmark.style/api?url=https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs&mode=light&style=horizontal)](https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs)
+
+[![Voices in the Machine - AI Speech Generation](https://svg.bookmark.style/api?url=https://github.com/mejbass/Voices-in-the-Machine-AI-Speech-Generation&mode=light&style=horizontal)](https://github.com/mejbass/Voices-in-the-Machine-AI-Speech-Generation)
+
+[![Voice Cloning, Translation & Transcription](https://svg.bookmark.style/api?url=https://github.com/mejbass/Voice-Cloning-Translation-Transcription&mode=light&style=horizontal)](https://github.com/mejbass/Voice-Cloning-Translation-Transcription)
+
+[![Build your own Blokchain](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN)
 
 -----
+<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+To see all the other badges are [here](https://www.credly.com/users/bassam-mejlaoui/badges)
+
+
 :octocat: **`What I'm I Studying?`** 
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=for-the-badge)](https://github.com/ossu/computer-science)
