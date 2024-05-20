@@ -116,6 +116,12 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 [![Datacamp - Introduction to R](https://img.shields.io/badge/Introduction%20to%20R-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/free-introduction-to-r/)
 [![Datacamp - Introduction to Python for Data Science](https://img.shields.io/badge/Introduction%20to%20Python%20for%20Data%20Science-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/intro-to-python-for-data-science/)
 
+[![Python](https://img.shields.io/badge/W3Schools_Python-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)](https://www.w3schools.in/python/tutorials/)
+[![MongoDB](https://img.shields.io/badge/W3Schools_MongoDB-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)](https://www.w3schools.com/mongodb/mongodb_get_started.php)
+[![MySQL](https://img.shields.io/badge/W3Schools_MySQL-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)](https://www.w3schools.com/mysql/mysql_intro.asp)
+[![R](https://img.shields.io/badge/W3Schools_R-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)](https://www.w3schools.com/r/r_intro.asp)
+
+
 [![Coursera - IBM AI Engineering Specialization](https://img.shields.io/badge/IBM%20AI%20Engineering%20Specialization-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K)
 [![Coursera - Data Science Specialization](https://img.shields.io/badge/Data%20Science%20Specialization-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K)
 [![Coursera - Applied Data Science Specialization](https://img.shields.io/badge/Applied%20Data%20Science%20Specialization-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white&link=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F7BVVEK72RG7K)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K)
