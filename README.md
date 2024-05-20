@@ -74,6 +74,14 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 [![Python for Data Science](https://images.credly.com/size/100x100/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/19cd09c2-6b2d-41f7-8725-876d17756d52/public_url "Python for Data Science")
 [![Data Science with Scala](https://images.credly.com/size/100x100/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png)](https://www.credly.com/badges/69a76db6-ab7d-4b17-bc7a-debe9f81ef56/public_url "Data Science with Scala")
 
+**DataCamp Certification**
+
+<a href="https://github.com/mejbass/mejbass/assets/130122304/1cf3067e-ae9d-4707-882c-f12038a58183">
+    <img src="https://github.com/mejbass/mejbass/assets/130122304/1cf3067e-ae9d-4707-882c-f12038a58183" alt="Data analyst professional badge" title="Data analyst professional" style="width:100px;height:100px;">
+</a>
+
+
+
 -----
 :octocat: **`What I'm I Studying?`** 
 
