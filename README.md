@@ -27,8 +27,16 @@
 [![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-%230074D9.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
 [![My Trello - Deep Learning | Machine Learning](https://img.shields.io/badge/Trello-Deep%20Learning%20|%20Machine%20Learning-%232ECC40.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/IGr2yS1o/deep-learning-machine-learning)
 [![My Trello - Interviews Mastering](https://img.shields.io/badge/Trello-Interviews%20Mastering-%23FF851B.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/UvALWukS/interviews)
+[![My Trello - H4cking Master the Art of Command lines](https://img.shields.io/badge/Trello-H4cking%20Master%20the%20Art%20of%20Command%20lines-%23FF0000.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/p48FfHwJ/h4cking)
 
-## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## :octocat: 𝗠𝘆 𝗟𝗮𝘀𝘁 𝗔𝗿𝘁𝗶𝗰𝗹𝗲𝘀
+
+| Title | Summary |
+|---|---|
+| [Voice Cloning, Translation & Transcription: Revolutionizing Communication](https://medium.com/@bassammejlaoui/voice-cloning-translation-transcription-revolutionizing-communication-a6fc11d49ac7) | This article explores the cutting-edge technology of voice cloning, which enables the precise replication and recreation of human voices. It discusses the potential applications of this innovation, highlighting its transformative impact on communication, human-machine interaction, and various other fields. |
+
+
+## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
 
 [![Using AI to Write Codes: Autocomplete to Autopilot - Working with Coding Assistants](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-using-AI-to-Write-Codes&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-using-AI-to-Write-Codes)
 
