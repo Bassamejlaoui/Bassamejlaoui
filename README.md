@@ -164,17 +164,11 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/code-GraphQL-informational?style=flat&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/code-JWT-informational?style=flat&logo=JSON%20web%20tokens)
 ![](https://img.shields.io/badge/code-GULP-informational?style=flat&logo=gulp&logoColor=white)
-
 </br>
-
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-
-
 </br>
-
-
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
@@ -182,15 +176,11 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-bitbucket-informational?style=flat&logo=bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white)
-
 </br>
-
 ![](https://img.shields.io/badge/TestingTools-cypress-informational?style=flat&logo=cypress&logoColor=058a5e)
 ![](https://img.shields.io/badge/TestingTools-jest-informational?style=flat&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/testingTools-mocha-informational?style=flat&logo=mocha&logoColor=white)
-
 </br>
-
 ![](https://img.shields.io/badge/server-nginx-informational?style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/server-jenkins-informational?style=flat&logo=jenkins&logoColor=white)
 
@@ -265,6 +255,15 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 - Currently enrolled in the ALX Program, contributing actively to collaborative projects and honing teamwork and communication skills.
 
 -------
+## :octocat: **Join The Cyberpolyglot**
+
+| Field | Description |
+|---|---|
+| [The Open Source Data Science University](https://github.com/mejbass/Open-Source-Data-Science-University) | The most important economic and social development of our times is digitalisation. Digital technology not only fills all areas of interpersonal communication, but also has an important influence on our economy. It represents existing forms of technology, while paving the way for new business models that were not previously possible. |
+| [The Online Bachelor Equivalent in Applied Artificial Intelligence Subjects](https://github.com/mejbass/OpenSource-Applied-Artificial-Intelligence-Subjects) | Applied artificial intelligence is the implementation of AI tech to solve real world problems. It is a rapidly growing field that is set to shape our future with cutting edge technologies and perhaps even change the world as we know it today! |
+| [The Open Source Cybersecurity University](https://github.com/mejbass/Open-Source-Cybersecurity-University) | In this practice-oriented Bachelor in Cyber Security study programme, available fully online, you will be trained as a threat hunter with leadership potential. You will acquire the latest knowledge in the field of Cyber Security and deal with the architecture, programming and maintenance of security systems. |
+| [The Open Source Bachelor in Computer Science](https://github.com/mejbass/Open-Source-Bachelor-in-Computer-Science) | Computer Science is undergoing rapid change and allows you to be at the cutting edge of technological advancements. Digital development and other IT topics such as big data will have a huge impact on the future of our society, which means that experts in this field are in great demand. |
+| [ The Open Source Physics Self Path Curicculum](https://github.com/mejbass/Open-Source-Physics-Curicculum) | The curriculum spans five years, each focusing on different aspects of physics. It integrates courses from renowned institutions, recommended textbooks, and supplementary materials. |
 
 ## :octocat: Find me around the web 🌎:  
 <a href="https://github.com/mejbass">
