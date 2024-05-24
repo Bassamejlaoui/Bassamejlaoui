@@ -29,11 +29,6 @@
 [![My Trello - Interviews Mastering](https://img.shields.io/badge/Trello-Interviews%20Mastering-%23FF851B.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/UvALWukS/interviews)
 [![My Trello - H4cking Master the Art of Command lines](https://img.shields.io/badge/Trello-H4cking%20Master%20the%20Art%20of%20Command%20lines-%23FF0000.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/p48FfHwJ/h4cking)
 
-## :octocat: 𝗠𝘆 𝗟𝗮𝘀𝘁 𝗔𝗿𝘁𝗶𝗰𝗹𝗲𝘀
-
-| Title | Summary |
-|---|---|
-| [Voice Cloning, Translation & Transcription: Revolutionizing Communication](https://medium.com/@bassammejlaoui/voice-cloning-translation-transcription-revolutionizing-communication-a6fc11d49ac7) | This article explores the cutting-edge technology of voice cloning, which enables the precise replication and recreation of human voices. It discusses the potential applications of this innovation, highlighting its transformative impact on communication, human-machine interaction, and various other fields. |
 ----
 <!--START_SECTION:badges-->
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
@@ -266,6 +261,12 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 | [The Open Source Physics University](https://github.com/mejbass/Open-Source-Physics-Curicculum) | The curriculum spans five years, each focusing on different aspects of physics. It integrates courses from renowned institutions, recommended textbooks, and supplementary materials. |
 | [The Open Source Bachelor of Science in Software Development](https://github.com/mejbass/Software-Development) | Software systems are an inseparable part of the today’s business and economic world, as well as everyday life. Regardless of its through smartphone apps, smart home devices or complex online databases, software developers and the work that they do have a profound effect on the world.|
 
+----
+## :octocat: 𝗠𝘆 𝗟𝗮𝘀𝘁 𝗔𝗿𝘁𝗶𝗰𝗹𝗲𝘀
+
+| Title | Summary |
+|---|---|
+| [Voice Cloning, Translation & Transcription: Revolutionizing Communication](https://medium.com/@bassammejlaoui/voice-cloning-translation-transcription-revolutionizing-communication-a6fc11d49ac7) | This article explores the cutting-edge technology of voice cloning, which enables the precise replication and recreation of human voices. It discusses the potential applications of this innovation, highlighting its transformative impact on communication, human-machine interaction, and various other fields. |
 ## :octocat: Find me around the web 🌎:  
 <a href="https://github.com/mejbass">
   <img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
