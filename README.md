@@ -5,7 +5,7 @@
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
 [![OSSU Arabic Computer Science Curriculum Contributor](https://img.shields.io/badge/OSSU-Arabic%20Computer%20Science%20Curicculum%20Contributor-blue?style=flat&logoColor=grey)](https://github.com/ossu/computer-science-arabic)
 
-:octocat: **RESEARCH INTERESTS>** Data Science, Computer Science, Applied AI, Machine Learning, Computational Linguistics, Cognitive Linguistics, Medical Informatics, BioInformatics
+:octocat: **RESEARCH INTERESTS:** Data Science, Computer Science, Applied AI, Machine Learning, Computational Linguistics, Cognitive Linguistics, Medical Informatics, BioInformatics
  and Cyber Security.
 
 <img width="1834" alt="Make your README" src="https://github.com/mejbass/mejbass/assets/130122304/71a2ede7-6de0-4c8d-b5b4-4bf5a8d334aa">
