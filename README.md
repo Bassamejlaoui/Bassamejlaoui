@@ -3,7 +3,7 @@
 **`Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
-[![OSSU Arabic Computer Science Curriculum Contributor](https://img.shields.io/badge/OSSU-Arabic%20Computer%20Science%20Curicculum%20Contributor-blue?style=flat&logoColor=grey)](https://github.com/ossu/computer-science-arabic)
+[![OSSU Arabic Computer Science Curriculum Contributor](https://img.shields.io/badge/OSSU-Arabic%20Computer%20Science%20Curicculum%20Contributor-blue?style=flat&logoColor=grey)](https://github.com/ossu/computer-science-arabic) <p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=yellow&style=flat" alt="Mejbass" /> </p>
 
 :octocat: **RESEARCH INTERESTS:** Data Science, Computer Science, Applied AI, Machine Learning, Computational Linguistics, Cognitive Linguistics, Medical Informatics, BioInformatics
  and Cyber Security.
@@ -21,8 +21,6 @@
 <img width=200px src="https://avatars.githubusercontent.com/u/108390987?s=280&v=4" alt="ALx Logo" height="200" style="max-width: 100%;">
 
 	
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=yellow&style=flat" alt="Mejbass" /> </p>
-
 **`Dive into my Trello boards where I share resources and strategies for mastering Information Technology, learn Deep Learning, Machine Learning, and acing interviews.`**
 
 [![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-%230074D9.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
