@@ -12,7 +12,7 @@
 
 -------
 
-:technologist: Currently I'm Studying Computer Science at CS50 Harvard University, taking the Stanford Code in Place Curriculum and Studying Data Science at Explore AI Academy and ALX Africa.
+:technologist: Stanford Code In Place Alumni, Currently I'm Studying Computer Science at CS50 Harvard University, taking the Stanford Code in Place Curriculum and Studying Data Science at Explore AI Academy and ALX Africa.
 
 <p align="center">
 <img width="200px" src="https://i.imgur.com/Jj740Yd.png" alt="logo"height="200"> 
@@ -55,6 +55,13 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 
 <a href="https://github.com/mejbass/mejbass/assets/130122304/1cf3067e-ae9d-4707-882c-f12038a58183">
     <img src="https://github.com/mejbass/mejbass/assets/130122304/1cf3067e-ae9d-4707-882c-f12038a58183" alt="Data analyst professional badge" title="Data analyst professional" style="width:100px;height:100px;">
+</a>
+
+<a href="https://github.com/mejbass/mejbass/assets/130122304/ccbc0f52-6a09-494d-8705-b7709f94bce6">
+    <img src="https://github.com/mejbass/mejbass/assets/130122304/ccbc0f52-6a09-494d-8705-b7709f94bce6" 
+         alt="Data Scientist Associate Certificate" 
+         title="Data Scientist Associate Certificate" 
+         style="width:100px;height:100px;">
 </a>
 
 
