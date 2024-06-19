@@ -12,7 +12,7 @@
 
 -------
 
-:technologist: Stanford Code In Place Alumni, Currently I'm Studying Computer Science at CS50 Harvard University, taking the Stanford Code in Place Curriculum and Studying Data Science at Explore AI Academy and ALX Africa.
+:technologist: Stanford Code In Place Alumni, Currently I'm Studying Computer Science at CS50 Harvard University, and Studying Data Science at Explore AI Academy and ALX Africa.
 
 <p align="center">
 <img width="200px" src="https://i.imgur.com/Jj740Yd.png" alt="logo"height="200"> 
