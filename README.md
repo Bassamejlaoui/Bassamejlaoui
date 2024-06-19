@@ -57,12 +57,10 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
     <img src="https://github.com/mejbass/mejbass/assets/130122304/1cf3067e-ae9d-4707-882c-f12038a58183" alt="Data analyst professional badge" title="Data analyst professional" style="width:100px;height:100px;">
 </a>
 
-<a href="https://github.com/mejbass/mejbass/assets/130122304/ccbc0f52-6a09-494d-8705-b7709f94bce6">
-    <img src="https://github.com/mejbass/mejbass/assets/130122304/ccbc0f52-6a09-494d-8705-b7709f94bce6" 
-         alt="Data Scientist Associate Certificate" 
-         title="Data Scientist Associate Certificate" 
-         style="width:100px;height:100px;">
+<a href="https://www.datacamp.com/certificate/DSA0015968029288">
+    <img src="https://github.com/mejbass/mejbass/assets/130122304/34176301-52ee-4844-823a-e49c54fea1da" alt="Bassam Mejlaoui's Data Scientist Associate Certificate" title="Bassam Mejlaoui's Data Scientist Associate Certificate" style="width:100px;height:100px;">
 </a>
+
 
 
 -----
