@@ -1,6 +1,7 @@
- ### Hi there! 👋 I'm Bassam Mejlaoui<img height="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/81e903be-5f38-419c-be01-f95e68698526"> .
+ ### Hi there! 👋 I'm Bassam Mejlaoui 
+**Data Scientist & Computational Linguist** `Based in`  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
 
-**`Certified from Datcamp as a Data Scientist`** Based in  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
+Python, R, SQL, NLP, Data Analysis, Visualization, AWS | AI, ML | Certified in Data Science & Cybersecurity | SAP, Power BI | Multilingual
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
 [![OSSU Arabic Computer Science Curriculum Contributor](https://img.shields.io/badge/OSSU-Arabic%20Computer%20Science%20Curicculum%20Contributor-blue?style=flat&logoColor=grey)](https://github.com/ossu/computer-science-arabic) <p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=yellow&style=flat" alt="Mejbass" /> </p>
@@ -148,42 +149,6 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 -------
 
-
-## 💼 Technical Skills
-
-![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/code-GraphQL-informational?style=flat&logo=graphql&logoColor=white)
-![](https://img.shields.io/badge/code-JWT-informational?style=flat&logo=JSON%20web%20tokens)
-![](https://img.shields.io/badge/code-GULP-informational?style=flat&logo=gulp&logoColor=white)
-</br>
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-</br>
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-bitbucket-informational?style=flat&logo=bitbucket&logoColor=white)
-![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white)
-</br>
-![](https://img.shields.io/badge/TestingTools-cypress-informational?style=flat&logo=cypress&logoColor=058a5e)
-![](https://img.shields.io/badge/TestingTools-jest-informational?style=flat&logo=jest&logoColor=white)
-![](https://img.shields.io/badge/testingTools-mocha-informational?style=flat&logo=mocha&logoColor=white)
-</br>
-![](https://img.shields.io/badge/server-nginx-informational?style=flat&logo=nginx&logoColor=white)
-![](https://img.shields.io/badge/server-jenkins-informational?style=flat&logo=jenkins&logoColor=white)
-
 👀 **Tools:**
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge=mongodb&logoColor=white)
@@ -224,35 +189,77 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 💼 **Profesional Experience**
 
-Power BI Analyst at PWC Switzerland <img src="https://github.com/mejbass/mejbass/assets/130122304/dbc5d053-a7f4-4753-a9bc-d902198d75fc" width="95"/>
+- **Data Analyst (Intern) at MeriSKILL** (June 2024): 
+  - Internship focused on real-world Data Analysis projects.
+  - Used Power BI, Excel, SQL, Python, and Tableau.
+  - Contributed to expanding MeriSKILL's platform globally.
 
-Data Analyst at British Airways <img src="https://github.com/mejbass/mejbass/assets/130122304/02e093e3-ab41-458f-9de1-6c3491968faa" width="95"/>
+- **Senior Information Technology Consultant (Apprenticeship) at SAP** (May 2024 - Present):
+  - Apprenticeship focusing on practical skills in SAP solutions and Agile/DevOps methodologies.
 
-Data Science course Contributor at Microsoft <img src="https://github.com/mejbass/mejbass/assets/130122304/943773a4-e8ef-4fd8-bb83-544ad5bacd1b" width="95"/>
+- **Open Source Contributor and Game Developer (Freelance) at Epic Games** (May 2024):
+  - Contributed to developing gaming experiences for a global audience at Epic Games.
 
-Ossu Arabic Computer Science Curriculum Contributor [![OSSU Arabic Computer Science Contributor](https://img.shields.io/badge/OSSU%20Arabic%20Computer%20Science%20Contributor-blue.svg)](https://github.com/ossu/computer-science-arabic)
+- **Data Analyst (Intern) at British Airways** (April 2024 - May 2024):
+  - Analyzed customer data using Python and Power BI for enhancing customer service strategies.
 
-Freecodecamp Arabic Curriculum Contributor and translator <img src="https://github.com/mejbass/mejbass/assets/130122304/4b6de49e-7119-45d1-ab50-797dfd80f0db" width="200"/>
+- **Power BI Analyst (Intern) at PWC Switzerland** (April 2024 - May 2024):
+  - Specialized in leveraging Power BI for business performance enhancement.
 
-Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/assets/130122304/df32e037-9941-4fe5-bea2-1b7f0ab7b8a9" width="30"/>
+- **Content Contributor (DS, CS, Web Dev) at FreeCodeCamp** (April 2024 - May 2024):
+  - Enhanced learning resources for Arabic-speaking developers.
+
+- **Open Source Contributor, AI Curriculum at Microsoft** (April 2024 - May 2024):
+  - Translated and enriched educational resources for global audiences.
+
+- **Open Source Contributor, Data Science Curriculum at Microsoft** (April 2024 - May 2024):
+  - Contributed to advancing data science education through project management and documentation.
+
+- **Contributor at Bruno Open Source IDE** (February 2024 - May 2024):
+  - Sole Arabic contributor and translator, enhancing accessibility for Arabic users.
+
+- **Data Scientist (Apprenticeship) at ALX Africa/Explore AI Academy** (March 2023 - July 2024):
+  - Engaged in a comprehensive data science specialization with hands-on experience in various domains.
 
 
 🌱 I'm open to collaborating on projects related to Data Science, AI, Machine Learning, and Cyber Security.
 
 
 🚀 **Project Highlights:**
-- Spearheaded transformative projects such as "Urban Transportation Rejuvenated", "Moroccan currency converter", and "Coke-Machine", showcasing my ability to deliver impactful solutions.
-- Currently engaged in ongoing initiatives like the "Bitcoin Price Index" and "Moroccan Traditional Food Restaurant Order Calculator", demonstrating a commitment to continuous innovation.
+
+- Spearheaded transformative projects such as "Urban Transportation Rejuvenated," "Moroccan Currency Converter," and "Coke-Machine," showcasing my ability to deliver impactful solutions.
+- Currently engaged in ongoing initiatives like the "Bitcoin Price Index" and "Moroccan Traditional Food Restaurant Order Calculator," demonstrating a commitment to continuous innovation.
+- Working on the GitHub Deep Fake project, Karel programming language, and Facefusion, a project for creating deepfake videos.
+- Working on ConnectfanAi for Nights & Weekends Season 5, a sports platform enhancing user experiences through AI-driven personalization.
 
 🎓 **Certifications and Expertise:**
-- Acquired 68 certificates in diverse areas, including Data Analytics, Cybersecurity, Cloud Computing, and AI, underlining a comprehensive skill set.
+
+- Acquired +80 certificates in diverse areas, including Data Analytics, Cybersecurity, Cloud Computing, and AI, underlining a comprehensive skill set.
 - Proficient in networking with CompTIA Network+ certification and hands-on experience in cloud services like Microsoft Azure and AWS.
-- Holding two certificates from Harvard university in Computer Science 
+- Holding two certificates from Harvard University in Computer Science.
+- IBM AI Engineering Professional Certificate: Completed on Coursera, covering machine learning, deep learning, and applied AI.
+- Professional certificates from Coursera, including Data Science and Cybersecurity specializations.
 
 📚 **Education Journey:**
+
 - Completed a rigorous Mathematics curriculum at the Open Source Society University, collaborating with prestigious institutions such as Harvard, MIT, and Arizona State University.
-- Pursuing an Engineer's degree in Data Science at ExploreAI Academy, specializing in ML, data analysis, and statistical modeling.
-- Currently enrolled in the ALX Program, contributing actively to collaborative projects and honing teamwork and communication skills.
+- Pursuing an Engineer's degree in Data Science at ExploreAI Academy: Specializing in machine learning, data analysis, data modeling, regression, data visualization, and statistical modeling. Developing proficiency in Python, exploring data science fundamentals, gaining hands-on experience with tools like Jupyter Notebooks, pandas, scikit-learn, and TensorFlow.
+- Participated in CS106A Computer Science course at Stanford University (Apr 2024 - Jun 2024), gaining foundational knowledge in Python programming with support from volunteer teachers, and developing a shareable portfolio hosted by Stanford.
+- Currently enrolled in the ALX Data Science Program: Contributing actively to collaborative projects and honing teamwork and communication skills.
+
+**Professional Development:**
+- Enrolled in the "TAKE THE LEAD PROGRAM" from Cornell University (May 2024), focusing on leadership skills.
+
+**Open Source Contributions:**
+- Sole Arabic Contributor and Translator for Brüno, an open-source API exploration IDE.
+- Pivotal contributor to Microsoft's "Data Science for Beginners - A Curriculum Project."
+
+**Language Proficiency:**
+- Native in Arabic, fluent in English and German (B2 level), proficient in French, and basic proficiency in Italian.
+
+---
+
+This combined content provides a detailed and organized overview of your achievements, projects, certifications, education, and professional experiences.
 
 <a href="https://github.com/mejbass">
   <img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
