@@ -35,30 +35,31 @@
 To see all the other badges are [here](https://www.credly.com/users/bassam-mejlaoui/badges)
 **Cisco Certifications**
 
-[![Junior Cybersecurity Analyst Career Path](https://images.credly.com/size/100x100/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png)](https://www.credly.com/badges/b69eec94-21b5-4ebf-9f16-eb5cd0709c7e/public_urll "Junior Cybersecurity Analyst Career Path")
-[![Introduction to Cybersecurity](https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/6c9700a4-1b14-4453-b77a-701c17b07aba/public_url "Introduction to Cybersecurity")
-[![Data Analytics Essentials](https://images.credly.com/size/100x100/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png)](https://www.credly.com/badges/2128606a-a870-43ef-830d-79dbf4267178/public_url "Data Analytics Essentials")
-[![Introduction to Data Science](https://images.credly.com/size/100x100/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/3ff5ecc3-4f33-477b-b83f-9a4cbcef8ed7/public_url "Introduction to Data Science")
-[![Networking Basics](https://images.credly.com/size/100x100/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/c357de45-387a-4a3b-aaa9-7e4494c1924a/public_url "Networking Basics")
-[![Networking Devices and Initial Configuration](https://images.credly.com/size/100x100/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](https://www.credly.com/badges/9397fdf1-9d18-4ab3-8d1b-1868c1abdad2/public_url "Networking Devices and Initial Configuration")
-[![Endpoint Security](https://images.credly.com/size/100x100/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](https://www.credly.com/badges/0168f751-dac9-43e9-b045-ba5dc48e83da/public_url "Endpoint Security")
-[![English for IT 1](https://images.credly.com/size/100x100/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png)](https://www.credly.com/earner/earned/badge/d013ef0d-b201-4f88-bf51-ad08c875af7f "English for IT 1")
+<a href="https://www.credly.com/badges/b69eec94-21b5-4ebf-9f16-eb5cd0709c7e/public_url" title="Junior Cybersecurity Analyst Career Path"><img src="https://images.credly.com/size/100x100/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="Junior Cybersecurity Analyst Career Path" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/6c9700a4-1b14-4453-b77a-701c17b07aba/public_url" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/2128606a-a870-43ef-830d-79dbf4267178/public_url" title="Data Analytics Essentials"><img src="https://images.credly.com/size/100x100/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="Data Analytics Essentials" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/3ff5ecc3-4f33-477b-b83f-9a4cbcef8ed7/public_url" title="Introduction to Data Science"><img src="https://images.credly.com/size/100x100/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/c357de45-387a-4a3b-aaa9-7e4494c1924a/public_url" title="Networking Basics"><img src="https://images.credly.com/size/100x100/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/9397fdf1-9d18-4ab3-8d1b-1868c1abdad2/public_url" title="Networking Devices and Initial Configuration"><img src="https://images.credly.com/size/100x100/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Networking Devices and Initial Configuration" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/0168f751-dac9-43e9-b045-ba5dc48e83da/public_url" title="Endpoint Security"><img src="https://images.credly.com/size/100x100/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Endpoint Security" width="100" height="100"></a>
+<a href="https://www.credly.com/earner/earned/badge/d013ef0d-b201-4f88-bf51-ad08c875af7f" title="English for IT 1"><img src="https://images.credly.com/size/100x100/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" alt="English for IT 1" width="100" height="100"></a>
+
 
 **IBM Certifications**
 
-[![IBM Cloud Essentials](https://images.credly.com/size/100x100/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](https://www.credly.com/badges/c432aec3-f4c2-498a-aadb-09dc078f1df9/public_url "IBM Cloud Essentials")
-[![Data Science for Business - Level 1](https://images.credly.com/size/100x100/images/f2f9716d-7be0-47ef-b4ad-c8d3b481b9d7/Data_Sci_Business_Level_1_-_CC_-_2019.png)](https://www.credly.com/badges/85077b6f-3e50-47ae-86e4-14e1e0289f69/public_url "Data Science for Business - Level 1")
-[![Python for Data Science](https://images.credly.com/size/100x100/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](https://www.credly.com/badges/19cd09c2-6b2d-41f7-8725-876d17756d52/public_url "Python for Data Science")
-[![Data Science with Scala](https://images.credly.com/size/100x100/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png)](https://www.credly.com/badges/69a76db6-ab7d-4b17-bc7a-debe9f81ef56/public_url "Data Science with Scala")
+<a href="https://www.credly.com/badges/c432aec3-f4c2-498a-aadb-09dc078f1df9/public_url" title="IBM Cloud Essentials"><img src="https://images.credly.com/size/100x100/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" alt="IBM Cloud Essentials" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/85077b6f-3e50-47ae-86e4-14e1e0289f69/public_url" title="Data Science for Business - Level 1"><img src="https://images.credly.com/size/100x100/images/f2f9716d-7be0-47ef-b4ad-c8d3b481b9d7/Data_Sci_Business_Level_1_-_CC_-_2019.png" alt="Data Science for Business - Level 1" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/19cd09c2-6b2d-41f7-8725-876d17756d52/public_url" title="Python for Data Science"><img src="https://images.credly.com/size/100x100/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="Python for Data Science" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/69a76db6-ab7d-4b17-bc7a-debe9f81ef56/public_url" title="Data Science with Scala"><img src="https://images.credly.com/size/100x100/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png" alt="Data Science with Scala" width="100" height="100"></a>
 
 **DataCamp Certification**
 
-<a href="https://github.com/mejbass/mejbass/assets/130122304/1cf3067e-ae9d-4707-882c-f12038a58183">
-    <img src="https://github.com/mejbass/mejbass/assets/130122304/1cf3067e-ae9d-4707-882c-f12038a58183" alt="Data analyst professional badge" title="Data analyst professional" style="width:100px;height:100px;">
+<a href="https://github.com/mejbass/mejbass/assets/130122304/1cf3067e-ae9d-4707-882c-f12038a58183" title="Data analyst professional">
+    <img src="https://github.com/mejbass/mejbass/assets/130122304/1cf3067e-ae9d-4707-882c-f12038a58183" alt="Data analyst professional badge" width="100" height="100">
 </a>
 
-<a href="https://www.datacamp.com/certificate/DSA0015968029288">
-    <img src="https://github.com/mejbass/mejbass/assets/130122304/34176301-52ee-4844-823a-e49c54fea1da" alt="Bassam Mejlaoui's Data Scientist Associate Certificate" title="Bassam Mejlaoui's Data Scientist Associate Certificate" style="width:100px;height:100px;">
+<a href="https://www.datacamp.com/certificate/DSA0015968029288" title="Bassam Mejlaoui's Data Scientist Associate Certificate">
+    <img src="https://github.com/mejbass/mejbass/assets/130122304/34176301-52ee-4844-823a-e49c54fea1da" alt="Bassam Mejlaoui's Data Scientist Associate Certificate" width="100" height="100">
 </a>
 
 
@@ -67,17 +68,17 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 
 ## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
 
-[![Using AI to Write Codes: Autocomplete to Autopilot - Working with Coding Assistants](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-using-AI-to-Write-Codes&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-using-AI-to-Write-Codes)
+[![Using AI to Write Codes: Autocomplete to Autopilot - Working with Coding Assistants](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-using-AI-to-Write-Codes&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-using-AI-to-Write-Codes)
 
-[![Awesome Deep Fake](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-Deep-Fake&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-Deep-Fake)
+[![Awesome Deep Fake](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-Deep-Fake&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-Deep-Fake)
 
-[![Jailbreaking Censored/Aligned LLMs](https://svg.bookmark.style/api?url=https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs&mode=light&style=horizontal)](https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs)
+[![Jailbreaking Censored/Aligned LLMs](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Jailbreaking-Censored-Aligned-LLMs&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Jailbreaking-Censored-Aligned-LLMs)
 
-[![Voices in the Machine - AI Speech Generation](https://svg.bookmark.style/api?url=https://github.com/mejbass/Voices-in-the-Machine-AI-Speech-Generation&mode=light&style=horizontal)](https://github.com/mejbass/Voices-in-the-Machine-AI-Speech-Generation)
+[![Voices in the Machine - AI Speech Generation](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Voices-in-the-Machine-AI-Speech-Generation&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Voices-in-the-Machine-AI-Speech-Generation)
 
-[![Voice Cloning, Translation & Transcription](https://svg.bookmark.style/api?url=https://github.com/mejbass/Voice-Cloning-Translation-Transcription&mode=light&style=horizontal)](https://github.com/mejbass/Voice-Cloning-Translation-Transcription)
+[![Voice Cloning, Translation & Transcription](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Voice-Cloning-Translation-Transcription&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Voice-Cloning-Translation-Transcription)
 
-[![Build your own Blokchain](https://svg.bookmark.style/api?url=https://github.com/mejbass/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN&mode=light&style=horizontal)](https://github.com/mejbass/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN)
+[![Build your own Blokchain](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN)
 
 -----
 :octocat: **`What I'm I Studying?`** 
@@ -253,25 +254,6 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 - Pursuing an Engineer's degree in Data Science at ExploreAI Academy, specializing in ML, data analysis, and statistical modeling.
 - Currently enrolled in the ALX Program, contributing actively to collaborative projects and honing teamwork and communication skills.
 
--------
-## :octocat: **Join The Cyberpolyglot**
-
-| Field | Description |
-|---|---|
-| [The Open Source Data Science University](https://github.com/mejbass/Open-Source-Data-Science-University) | The most important economic and social development of our times is digitalisation. Digital technology not only fills all areas of interpersonal communication, but also has an important influence on our economy. It represents existing forms of technology, while paving the way for new business models that were not previously possible. |
-| [The Open Source Applied Artificial Intelligence University](https://github.com/mejbass/OpenSource-Applied-Artificial-Intelligence-Subjects) | Applied artificial intelligence is the implementation of AI tech to solve real world problems. It is a rapidly growing field that is set to shape our future with cutting edge technologies and perhaps even change the world as we know it today! |
-| [The Open Source Cybersecurity University](https://github.com/mejbass/Open-Source-Cybersecurity-University) | In this practice-oriented Bachelor in Cyber Security study programme, available fully online, you will be trained as a threat hunter with leadership potential. You will acquire the latest knowledge in the field of Cyber Security and deal with the architecture, programming and maintenance of security systems. |
-| [The Open Source Computer Science University](https://github.com/mejbass/Open-Source-Bachelor-in-Computer-Science) | Computer Science is undergoing rapid change and allows you to be at the cutting edge of technological advancements. Digital development and other IT topics such as big data will have a huge impact on the future of our society, which means that experts in this field are in great demand. |
-| [The Open Source Physics University](https://github.com/mejbass/Open-Source-Physics-Curicculum) | The curriculum spans five years, each focusing on different aspects of physics. It integrates courses from renowned institutions, recommended textbooks, and supplementary materials. |
-| [The Open Source Bachelor of Science in Software Development](https://github.com/mejbass/Software-Development) | Software systems are an inseparable part of the today’s business and economic world, as well as everyday life. Regardless of its through smartphone apps, smart home devices or complex online databases, software developers and the work that they do have a profound effect on the world.|
-
-----
-## :octocat: 𝗠𝘆 𝗟𝗮𝘀𝘁 𝗔𝗿𝘁𝗶𝗰𝗹𝗲𝘀
-
-| Title | Summary |
-|---|---|
-| [Voice Cloning, Translation & Transcription: Revolutionizing Communication](https://medium.com/@bassammejlaoui/voice-cloning-translation-transcription-revolutionizing-communication-a6fc11d49ac7) | This article explores the cutting-edge technology of voice cloning, which enables the precise replication and recreation of human voices. It discusses the potential applications of this innovation, highlighting its transformative impact on communication, human-machine interaction, and various other fields. |
-## :octocat: Find me around the web 🌎:  
 <a href="https://github.com/mejbass">
   <img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a>
@@ -284,16 +266,16 @@ Open Source Contributor at Bruno <img src="https://github.com/mejbass/mejbass/as
 -------
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mejbass&show_icons=true&locale=en&layout=compact" alt="Mejbass" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassamejlaoui&show_icons=true&locale=en&layout=compact" alt="bassamejlaoui" /></p>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mejbass&theme=light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bassamejlaoui&theme=light)
 
-<p align="left"> <a href="https://github.com/Mejbass/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mejbass" alt="Mejbass" /></a> </p>
+<p align="left"> <a href="https://github.com/bassamejlaoui/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bassamejlaoui" alt="bassamejlaoui" /></a> </p>
 
 
-<a href="https://github.com/mejbass">
-  <img align="right" width="150" height="150" src="https://github.com/mejbass/mejbass/blob/master/My-Octocat.gif" alt="gif of My Octocat">
+<a href="https://github.com/bassamejlaoui">
+  <img align="right" width="150" height="150" src="https://github.com/bassamejlaoui/bassamejlaoui/blob/master/My-Octocat.gif" alt="gif of My Octocat">
 </a>
 
 
