@@ -1,7 +1,7 @@
  ### Hi there! 👋 I'm Bassam Mejlaoui 
 **Data Scientist & Computational Linguist** `Based in`  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
 
-Python, R, SQL, NLP, Data Analysis, Visualization, AWS | AI, ML | Certified in Data Science & Cybersecurity | SAP, Power BI | Multilingual
+Python, R, SQL, NLP, Data Analysis, Visualization, AWS | AI, ML | Certified in Data Science, Engineering & Cybersecurity | SAP, Power BI | Multilingual
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
 [![OSSU Arabic Computer Science Curriculum Contributor](https://img.shields.io/badge/OSSU-Arabic%20Computer%20Science%20Curicculum%20Contributor-blue?style=flat&logoColor=grey)](https://github.com/ossu/computer-science-arabic) <p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=yellow&style=flat" alt="Mejbass" /> </p>
@@ -33,7 +33,9 @@ Python, R, SQL, NLP, Data Analysis, Visualization, AWS | AI, ML | Certified in D
 <!--START_SECTION:badges-->
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
-To see all the other badges are [here](https://www.credly.com/users/bassam-mejlaoui/badges)
+To see all the other badges are here: [Credly](https://www.credly.com/users/bassam-mejlaoui/badges) | [Datacamp](https://www.datacamp.com/portfolio/mejlaouibassam) 
+
+
 **Cisco Certifications**
 
 <a href="https://www.credly.com/badges/b69eec94-21b5-4ebf-9f16-eb5cd0709c7e/public_url" title="Junior Cybersecurity Analyst Career Path"><img src="https://images.credly.com/size/100x100/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="Junior Cybersecurity Analyst Career Path" width="100" height="100"></a>
@@ -55,15 +57,14 @@ To see all the other badges are [here](https://www.credly.com/users/bassam-mejla
 
 **DataCamp Certification**
 
-<a href="https://github.com/mejbass/mejbass/assets/130122304/1cf3067e-ae9d-4707-882c-f12038a58183" title="Data analyst professional">
-    <img src="https://github.com/mejbass/mejbass/assets/130122304/1cf3067e-ae9d-4707-882c-f12038a58183" alt="Data analyst professional badge" width="100" height="100">
+<a href="https://www.datacamp.com/certificate/DSA0015968029288" title="Bassam Mejlaoui's Data Engineer Associate Certificate">
+    <img src="https://github.com/Bassamejlaoui/Bassamejlaoui/assets/130122304/8bf278eb-e4a2-4f20-b160-c03700464922" alt="DE_Associate_-_badge_with_outline" width="100">
 </a>
+
 
 <a href="https://www.datacamp.com/certificate/DSA0015968029288" title="Bassam Mejlaoui's Data Scientist Associate Certificate">
-    <img src="https://github.com/mejbass/mejbass/assets/130122304/34176301-52ee-4844-823a-e49c54fea1da" alt="Bassam Mejlaoui's Data Scientist Associate Certificate" width="100" height="100">
+    <img src="https://github.com/Bassamejlaoui/Bassamejlaoui/assets/130122304/4b350ca7-e926-4909-9816-b6d98e475f19" alt="DS_Associate_-_badge_with_outline" width="100">
 </a>
-
-
 
 -----
 
