@@ -66,6 +66,11 @@ To see all the other badges are here: [Credly](https://www.credly.com/users/bass
     <img src="https://github.com/Bassamejlaoui/Bassamejlaoui/assets/130122304/4b350ca7-e926-4909-9816-b6d98e475f19" alt="DS_Associate_-_badge_with_outline" width="100">
 </a>
 
+
+<a href="https://github.com/Bassamejlaoui/Bassamejlaoui/assets/130122304/1360d941-8a79-49d8-a442-8de40b9ba8d5" title="Bassam Mejlaoui's AI Fundamentals Certificate">
+    <img src="https://github.com/Bassamejlaoui/Bassamejlaoui/assets/130122304/1360d941-8a79-49d8-a442-8de40b9ba8d5" alt="AI_Fundamentals_-_badge_with_outline" width="100">
+</a>
+
 -----
 
 ## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
