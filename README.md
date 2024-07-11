@@ -195,6 +195,12 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 💼 **Profesional Experience**
 
+- **Machine Learning (Intern) at InternCareer** (July 2024): 
+  - Engaging in comprehensive machine learning projects, focusing on data collection, analysis, and visualization.
+  - Collaborating with cross-functional teams to develop and implement data-driven solutions.
+  - Applying statistical and machine learning techniques to derive actionable insights from complex datasets.
+  - Contributing to the enhancement of internal processes through innovative data analysis and machine learning applications.
+  
 - **Data Analyst (Intern) at MeriSKILL** (June 2024): 
   - Internship focused on real-world Data Analysis projects.
   - Used Power BI, Excel, SQL, Python, and Tableau.
