@@ -71,6 +71,15 @@ To see all the other badges are here: [Credly](https://www.credly.com/users/bass
     <img src="https://github.com/Bassamejlaoui/Bassamejlaoui/assets/130122304/1360d941-8a79-49d8-a442-8de40b9ba8d5" alt="AI_Fundamentals_-_badge_with_outline" width="100">
 </a>
 
+
+**Google Certifications**
+
+
+<a href="https://www.credly.com/badges/df4f25aa-290f-49bb-b95b-a3b1307bf907/public_url" title="Credly Badge">
+    <img src="https://github.com/user-attachments/assets/7145ae6c-0743-43c5-8bcd-9d44415b678c" alt="Badge Image" width="120">
+</a>
+
+
 -----
 
 ## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
