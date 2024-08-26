@@ -204,6 +204,19 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 💼 **Profesional Experience**
 
+- **Data Scientist (Intern) at Bharat Intern** (August 2024)
+  - Apply theoretical concepts to real-world data scenarios, enhancing your practical skills.
+  - Actively engage in tasks that showcase and refine your data science abilities.
+  - Gain a deep understanding of industry practices and methodologies through direct involvement in projects.
+  - Execute assigned tasks with diligence and maintain high standards of quality in your work.
+ 
+- **Artificial Intelligence Developer (Intern) at InternCareer** (July 2024):
+  - Worked on an AI development project that involved designing and implementing innovative AI models to solve specific problems.
+  - Successfully managed and completed assigned tasks, adhering to deadlines and quality standards.
+  - Engaged with a team of professionals and fellow interns, contributing to project discussions and brainstorming sessions.
+  - Enhanced my technical skills in AI and machine learning, gaining valuable insights and experience that will be beneficial in my future career.
+  - During my internship at Intern Career, I'm undertaking significant projects in AI development, focusing on both Natural Language Processing (NLP) and Computer vision
+
 - **Machine Learning (Intern) at InternCareer** (July 2024): 
   - Engaging in comprehensive machine learning projects, focusing on data collection, analysis, and visualization.
   - Collaborating with cross-functional teams to develop and implement data-driven solutions.
