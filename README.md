@@ -202,60 +202,6 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 	
 🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
 
-💼 **Profesional Experience**
-
-- **Data Scientist (Intern) at Bharat Intern** (August 2024)
-  - Apply theoretical concepts to real-world data scenarios, enhancing your practical skills.
-  - Actively engage in tasks that showcase and refine your data science abilities.
-  - Gain a deep understanding of industry practices and methodologies through direct involvement in projects.
-  - Execute assigned tasks with diligence and maintain high standards of quality in your work.
- 
-- **Artificial Intelligence Developer (Intern) at InternCareer** (July 2024):
-  - Worked on an AI development project that involved designing and implementing innovative AI models to solve specific problems.
-  - Successfully managed and completed assigned tasks, adhering to deadlines and quality standards.
-  - Engaged with a team of professionals and fellow interns, contributing to project discussions and brainstorming sessions.
-  - Enhanced my technical skills in AI and machine learning, gaining valuable insights and experience that will be beneficial in my future career.
-  - During my internship at Intern Career, I'm undertaking significant projects in AI development, focusing on both Natural Language Processing (NLP) and Computer vision
-
-- **Machine Learning (Intern) at InternCareer** (July 2024): 
-  - Engaging in comprehensive machine learning projects, focusing on data collection, analysis, and visualization.
-  - Collaborating with cross-functional teams to develop and implement data-driven solutions.
-  - Applying statistical and machine learning techniques to derive actionable insights from complex datasets.
-  - Contributing to the enhancement of internal processes through innovative data analysis and machine learning applications.
-  
-- **Data Analyst (Intern) at MeriSKILL** (June 2024): 
-  - Internship focused on real-world Data Analysis projects.
-  - Used Power BI, Excel, SQL, Python, and Tableau.
-  - Contributed to expanding MeriSKILL's platform globally.
-
-- **Senior Information Technology Consultant (Apprenticeship) at SAP** (May 2024 - Present):
-  - Apprenticeship focusing on practical skills in SAP solutions and Agile/DevOps methodologies.
-
-- **Open Source Contributor and Game Developer (Freelance) at Epic Games** (May 2024):
-  - Contributed to developing gaming experiences for a global audience at Epic Games.
-
-- **Data Analyst (Intern) at British Airways** (April 2024 - May 2024):
-  - Analyzed customer data using Python and Power BI for enhancing customer service strategies.
-
-- **Power BI Analyst (Intern) at PWC Switzerland** (April 2024 - May 2024):
-  - Specialized in leveraging Power BI for business performance enhancement.
-
-- **Content Contributor (DS, CS, Web Dev) at FreeCodeCamp** (April 2024 - May 2024):
-  - Enhanced learning resources for Arabic-speaking developers.
-
-- **Open Source Contributor, AI Curriculum at Microsoft** (April 2024 - May 2024):
-  - Translated and enriched educational resources for global audiences.
-
-- **Open Source Contributor, Data Science Curriculum at Microsoft** (April 2024 - May 2024):
-  - Contributed to advancing data science education through project management and documentation.
-
-- **Contributor at Bruno Open Source IDE** (February 2024 - May 2024):
-  - Sole Arabic contributor and translator, enhancing accessibility for Arabic users.
-
-- **Data Scientist (Apprenticeship) at ALX Africa/Explore AI Academy** (March 2023 - July 2024):
-  - Engaged in a comprehensive data science specialization with hands-on experience in various domains.
-
-
 🌱 I'm open to collaborating on projects related to Data Science, AI, Machine Learning, and Cyber Security.
 
 
