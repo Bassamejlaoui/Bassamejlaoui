@@ -1,35 +1,13 @@
  ### Hi there! 👋 I'm Bassam Mejlaoui 
 **Data Scientist & Computational Linguist** `Based in`  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
 
-Python, R, SQL, NLP, Data Analysis, Visualization, AWS | AI, ML | Certified in Data Science, Engineering & Cybersecurity | SAP, Power BI | Multilingual
+Python, R, SQL, NLP, Data Analysis, Visualization, AWS 
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-purple)](#github-repositories)
-[![OSSU Arabic Computer Science Curriculum Contributor](https://img.shields.io/badge/OSSU-Arabic%20Computer%20Science%20Curicculum%20Contributor-blue?style=flat&logoColor=grey)](https://github.com/ossu/computer-science-arabic) <p align="left"> <img src="https://komarev.com/ghpvc/?username=mejbass&label=Profile%20views&color=yellow&style=flat" alt="Mejbass" /> </p>
-
-:octocat: **RESEARCH INTERESTS:** Data Science, Computer Science, Applied AI, Machine Learning, Computational Linguistics, Cognitive Linguistics, Medical Informatics, BioInformatics
- and Cyber Security.
+:octocat: **RESEARCH INTERESTS:** Data Science, Computer Science, Applied AI, Machine Learning, Computational Linguistics and Cognitive Linguistics
 
 <img width="1834" alt="Make your README" src="https://github.com/mejbass/mejbass/assets/130122304/71a2ede7-6de0-4c8d-b5b4-4bf5a8d334aa">
 
 -------
-
-:technologist: Stanford Code In Place Alumni, Currently I'm Studying Computer Science at CS50 Harvard University, and Studying Data Science at Explore AI Academy and ALX Africa.
-
-<p align="center">
-<img width="200px" src="https://i.imgur.com/Jj740Yd.png" alt="logo"height="200"> 
-<img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/82601797.png" alt="Logo"height="200">
-<img width="200px" height="200px" src="https://github.com/mejbass/mejbass/assets/130122304/b254ff5b-7b18-46d0-8a9d-77323cb23e08" alt="Logo">
-<img width=200px src="https://avatars.githubusercontent.com/u/108390987?s=280&v=4" alt="ALx Logo" height="200" style="max-width: 100%;">
-
-	
-**`Dive into my Trello boards where I share resources and strategies for mastering Information Technology, learn Deep Learning, Machine Learning, and acing interviews.`**
-
-[![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-%230074D9.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
-[![My Trello - Deep Learning | Machine Learning](https://img.shields.io/badge/Trello-Deep%20Learning%20|%20Machine%20Learning-%232ECC40.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/IGr2yS1o/deep-learning-machine-learning)
-[![My Trello - Interviews Mastering](https://img.shields.io/badge/Trello-Interviews%20Mastering-%23FF851B.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/UvALWukS/interviews)
-[![My Trello - H4cking Master the Art of Command lines](https://img.shields.io/badge/Trello-H4cking%20Master%20the%20Art%20of%20Command%20lines-%23FF0000.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/p48FfHwJ/h4cking)
-
-----
 <!--START_SECTION:badges-->
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
@@ -82,6 +60,15 @@ To see all the other badges are here: [Credly](https://www.credly.com/users/bass
 
 -----
 
+**`Dive into my Trello boards where I share resources and strategies for mastering Information Technology, learn Deep Learning, Machine Learning, and acing interviews.`**
+
+[![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-%230074D9.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
+[![My Trello - Deep Learning | Machine Learning](https://img.shields.io/badge/Trello-Deep%20Learning%20|%20Machine%20Learning-%232ECC40.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/IGr2yS1o/deep-learning-machine-learning)
+[![My Trello - Interviews Mastering](https://img.shields.io/badge/Trello-Interviews%20Mastering-%23FF851B.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/UvALWukS/interviews)
+[![My Trello - H4cking Master the Art of Command lines](https://img.shields.io/badge/Trello-H4cking%20Master%20the%20Art%20of%20Command%20lines-%23FF0000.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/p48FfHwJ/h4cking)
+
+----
+
 ## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
 
 [![Using AI to Write Codes: Autocomplete to Autopilot - Working with Coding Assistants](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-using-AI-to-Write-Codes&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-using-AI-to-Write-Codes)
@@ -97,70 +84,8 @@ To see all the other badges are here: [Credly](https://www.credly.com/users/bass
 [![Build your own Blokchain](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN)
 
 -----
-:octocat: **`What I'm I Studying?`** 
-
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=for-the-badge)](https://github.com/ossu/computer-science)
-[![2019/2022 Student](https://img.shields.io/badge/status-2019%2F2022%20Student-blue.svg?style=for-the-badge)](#)
-![Done](https://img.shields.io/badge/Done-green.svg?style=for-the-badge)
 
 
-[![Open Source Society University - Data Science](https://img.shields.io/badge/OSSU-data--science-blue.svg?style=for-the-badge)](https://github.com/ossu/data-science)
-[![2023 Student](https://img.shields.io/badge/status-2023%20Student-blue.svg?style=for-the-badge)](#)
-![In Progress](https://img.shields.io/badge/In%20Progress-yellow.svg?style=for-the-badge)
-
-[![Open Source Society University - Bioinformatics](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg?style=for-the-badge)](https://github.com/ossu/bioinformatics) ![In Progress](https://img.shields.io/badge/status-in--progress-yellow.svg?style=for-the-badge)
-
-
-[![FreeCodeCamp - Data Analysis with Python](https://img.shields.io/badge/Data%20Analysis%20with%20Python-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/data-analysis-with-python/)
-[![FreeCodeCamp - Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/data-visualization/)
-[![FreeCodeCamp - Relational Database](https://img.shields.io/badge/Relational%20Database-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/relational-database/)
-
-
-[![edX - CS50's Introduction to Computer Science](https://img.shields.io/badge/CS50's%20Introduction%20to%20Computer%20Science-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
-[![edX - CS50's Introduction to Programming with Python](https://img.shields.io/badge/CS50's%20Introduction%20to%20Programming%20with%20Python-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?webview=false&campaign=CS50%27s+Introduction+to+Programming+with+Python&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
-[![edX - CS50's Introduction to Artificial Intelligence with Python](https://img.shields.io/badge/CS50's%20Introduction%20to%20Artificial%20Intelligence%20with%20Python-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python?webview=false&campaign=CS50%27s+Introduction+to+Artificial+Intelligence+with+Python&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
-[![edX - CS50's Introduction to Cybersecurity](https://img.shields.io/badge/CS50's%20Introduction%20to%20Cybersecurity-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity?webview=false&campaign=CS50%27s+Introduction+to+Cybersecurity&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
-[![edX - CS50's Understanding Technology](https://img.shields.io/badge/CS50's%20Understanding%20Technology-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology?webview=false&campaign=CS50%27s+Understanding+Technology&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
-[![edX - CS50's Introduction to Databases with SQL](https://img.shields.io/badge/CS50's%20Introduction%20to%20Databases%20with%20SQL-%23A51C30.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql?webview=false&campaign=CS50%27s+Introduction+to+Databases+with+SQL&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
-
-[![Datacamp - Data Science for Business](https://img.shields.io/badge/Data%20Science%20for%20Business-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/data-science-for-business/)
-[![Datacamp - Supervised Learning with Scikit-Learn](https://img.shields.io/badge/Supervised%20Learning%20with%20Scikit%20Learn-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn/)
-[![Datacamp - Understanding Data Science](https://img.shields.io/badge/Understanding%20Data%20Science-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/understanding-data-science/)
-[![Datacamp - Introduction to Python for Data Science](https://img.shields.io/badge/Introduction%20to%20Python%20for%20Data%20Science-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-[![Datacamp - Introduction to R](https://img.shields.io/badge/Introduction%20to%20R-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/free-introduction-to-r/)
-[![Datacamp - Introduction to Python for Data Science](https://img.shields.io/badge/Introduction%20to%20Python%20for%20Data%20Science-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/courses/intro-to-python-for-data-science/)
-
-[![Python](https://img.shields.io/badge/W3Schools_Python-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)](https://www.w3schools.in/python/tutorials/)
-[![MongoDB](https://img.shields.io/badge/W3Schools_MongoDB-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)](https://www.w3schools.com/mongodb/mongodb_get_started.php)
-[![MySQL](https://img.shields.io/badge/W3Schools_MySQL-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)](https://www.w3schools.com/mysql/mysql_intro.asp)
-[![R](https://img.shields.io/badge/W3Schools_R-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)](https://www.w3schools.com/r/r_intro.asp)
-
-
-[![Coursera - IBM AI Engineering Specialization](https://img.shields.io/badge/IBM%20AI%20Engineering%20Specialization-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K)
-[![Coursera - Data Science Specialization](https://img.shields.io/badge/Data%20Science%20Specialization-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K)
-[![Coursera - Applied Data Science Specialization](https://img.shields.io/badge/Applied%20Data%20Science%20Specialization-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white&link=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F7BVVEK72RG7K)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K)
-[![Coursera - Introduction to Data Science Specialization](https://img.shields.io/badge/Introduction%20to%20Data%20Science%20Specialization-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K)
-
-[![Codecademy - Analyze Data with SQL](https://img.shields.io/badge/Analyze%20Data%20with%20SQL-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/learn/paths/analyze-data-with-sql)
-[![Codecademy - BI Data Analyst](https://img.shields.io/badge/BI%20Data%20Analyst-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/learn/paths/bi-data-analyst)
-[![Codecademy - Machine Learning & AI Engineering Foundations](https://img.shields.io/badge/Machine%20Learning%20%26%20AI%20Engineering%20Foundations-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/learn/paths/machine-learning-ai-engineering-foundations)
-[![Codecademy - Data Engineer](https://img.shields.io/badge/Data%20Engineer-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/learn/paths/data-engineer)
-[![Codecademy - Data Science NLP](https://img.shields.io/badge/Data%20Science%20NLP-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/learn/paths/data-science-nlp)
-
-
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-Jupyter Notebook   3 hrs 57 mins   ████████████████░░░░░░░░░   64.16 %
-Python         1 hr 32 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-SQL         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-GO     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-```
-
-<!--END_SECTION:waka-->
 
 -------
 
@@ -203,39 +128,6 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 🌱 Currently, I'm diving deep into Data Science and Cyber Security, constantly learning and exploring new concepts.
 
 🌱 I'm open to collaborating on projects related to Data Science, AI, Machine Learning, and Cyber Security.
-
-
-🚀 **Project Highlights:**
-
-- Spearheaded transformative projects such as "Urban Transportation Rejuvenated," "Moroccan Currency Converter," and "Coke-Machine," showcasing my ability to deliver impactful solutions.
-- Currently engaged in ongoing initiatives like the "Bitcoin Price Index" and "Moroccan Traditional Food Restaurant Order Calculator," demonstrating a commitment to continuous innovation.
-- Working on the GitHub Deep Fake project, Karel programming language, and Facefusion, a project for creating deepfake videos.
-- Working on ConnectfanAi for Nights & Weekends Season 5, a sports platform enhancing user experiences through AI-driven personalization.
-
-🎓 **Certifications and Expertise:**
-
-- Acquired +80 certificates in diverse areas, including Data Analytics, Cybersecurity, Cloud Computing, and AI, underlining a comprehensive skill set.
-- Proficient in networking with CompTIA Network+ certification and hands-on experience in cloud services like Microsoft Azure and AWS.
-- Holding two certificates from Harvard University in Computer Science.
-- IBM AI Engineering Professional Certificate: Completed on Coursera, covering machine learning, deep learning, and applied AI.
-- Professional certificates from Coursera, including Data Science and Cybersecurity specializations.
-
-📚 **Education Journey:**
-
-- Completed a rigorous Mathematics curriculum at the Open Source Society University, collaborating with prestigious institutions such as Harvard, MIT, and Arizona State University.
-- Pursuing an Engineer's degree in Data Science at ExploreAI Academy: Specializing in machine learning, data analysis, data modeling, regression, data visualization, and statistical modeling. Developing proficiency in Python, exploring data science fundamentals, gaining hands-on experience with tools like Jupyter Notebooks, pandas, scikit-learn, and TensorFlow.
-- Participated in CS106A Computer Science course at Stanford University (Apr 2024 - Jun 2024), gaining foundational knowledge in Python programming with support from volunteer teachers, and developing a shareable portfolio hosted by Stanford.
-- Currently enrolled in the ALX Data Science Program: Contributing actively to collaborative projects and honing teamwork and communication skills.
-
-**Professional Development:**
-- Enrolled in the "TAKE THE LEAD PROGRAM" from Cornell University (May 2024), focusing on leadership skills.
-
-**Open Source Contributions:**
-- Sole Arabic Contributor and Translator for Brüno, an open-source API exploration IDE.
-- Pivotal contributor to Microsoft's "Data Science for Beginners - A Curriculum Project."
-
-**Language Proficiency:**
-- Native in Arabic, fluent in English and German (B2 level), proficient in French, and basic proficiency in Italian.
 
 ---
 
