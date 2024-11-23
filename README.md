@@ -3,7 +3,7 @@
 
 Python, R, SQL, NLP, Data Analysis, Visualization, AWS 
 
-:octocat: **RESEARCH INTERESTS:** Data Science, Computer Science, Applied AI, Machine Learning, Computational Linguistics and Cognitive Linguistics
+:octocat: **RESEARCH INTERESTS:** Data Science, Applied AI, Computational Linguistics and Cognitive Linguistics
 
 <img width="1834" alt="Make your README" src="https://github.com/mejbass/mejbass/assets/130122304/71a2ede7-6de0-4c8d-b5b4-4bf5a8d334aa">
 
