@@ -28,10 +28,10 @@ To see all the other badges are here: [Credly](https://www.credly.com/users/bass
 
 **IBM Certifications**
 
-<a href="https://www.credly.com/badges/c432aec3-f4c2-498a-aadb-09dc078f1df9/public_url" title="IBM Cloud Essentials"><img src="https://images.credly.com/size/100x100/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" alt="IBM Cloud Essentials" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/85077b6f-3e50-47ae-86e4-14e1e0289f69/public_url" title="Data Science for Business - Level 1"><img src="https://images.credly.com/size/100x100/images/f2f9716d-7be0-47ef-b4ad-c8d3b481b9d7/Data_Sci_Business_Level_1_-_CC_-_2019.png" alt="Data Science for Business - Level 1" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/19cd09c2-6b2d-41f7-8725-876d17756d52/public_url" title="Python for Data Science"><img src="https://images.credly.com/size/100x100/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="Python for Data Science" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/69a76db6-ab7d-4b17-bc7a-debe9f81ef56/public_url" title="Data Science with Scala"><img src="https://images.credly.com/size/100x100/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png" alt="Data Science with Scala" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/c432aec3-f4c2-498a-aadb-09dc078f1df9/public_url" title="IBM Cloud Essentials"><img src="https://images.credly.com/size/100x100/images/7d768acf-ce3c-4a05-9778-a5013b1211c9/blob" alt="IBM Cloud Essentials" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/85077b6f-3e50-47ae-86e4-14e1e0289f69/public_url" title="Data Science for Business - Level 1"><img src="https://images.credly.com/size/100x100/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob" alt="Data Science for Business - Level 1" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/19cd09c2-6b2d-41f7-8725-876d17756d52/public_url" title="Python for Data Science"><img src="https://images.credly.com/size/100x100/images/b40db465-587f-45eb-a854-af8630a630e7/blob" alt="Python for Data Science" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/69a76db6-ab7d-4b17-bc7a-debe9f81ef56/public_url" title="Data Science with Scala"><img src="https://images.credly.com/size/100x100/images/31161e97-2afe-4b28-9a63-0fc788de0f69/blob" alt="Data Science with Scala" width="100" height="100"></a>
 
 **DataCamp Certification**
 
