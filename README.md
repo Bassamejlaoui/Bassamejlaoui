@@ -58,17 +58,6 @@ To see all the other badges are here: [Credly](https://www.credly.com/users/bass
 </a>
 
 
------
-
-**`Dive into my Trello boards where I share resources and strategies for mastering Information Technology, learn Deep Learning, Machine Learning, and acing interviews.`**
-
-[![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-%230074D9.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
-[![My Trello - Deep Learning | Machine Learning](https://img.shields.io/badge/Trello-Deep%20Learning%20|%20Machine%20Learning-%232ECC40.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/IGr2yS1o/deep-learning-machine-learning)
-[![My Trello - Interviews Mastering](https://img.shields.io/badge/Trello-Interviews%20Mastering-%23FF851B.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/UvALWukS/interviews)
-[![My Trello - H4cking Master the Art of Command lines](https://img.shields.io/badge/Trello-H4cking%20Master%20the%20Art%20of%20Command%20lines-%23FF0000.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/p48FfHwJ/h4cking)
-
-----
-
 ## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
 
 [![Using AI to Write Codes: Autocomplete to Autopilot - Working with Coding Assistants](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-using-AI-to-Write-Codes&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-using-AI-to-Write-Codes)
@@ -85,7 +74,12 @@ To see all the other badges are here: [Credly](https://www.credly.com/users/bass
 
 -----
 
+**`Dive into my Trello boards where I share resources and strategies for mastering Information Technology, learn Deep Learning, Machine Learning, and acing interviews.`**
 
+[![My Trello - Awesome Information Technology](https://img.shields.io/badge/Trello-Awesome%20Information%20Technology-%230074D9.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/invite/b/5jfH2QRv/ATTI4ea26de99615dff518c75b04f295ece879D01D0D/awesome-information-technology)
+[![My Trello - Deep Learning | Machine Learning](https://img.shields.io/badge/Trello-Deep%20Learning%20|%20Machine%20Learning-%232ECC40.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/IGr2yS1o/deep-learning-machine-learning)
+[![My Trello - Interviews Mastering](https://img.shields.io/badge/Trello-Interviews%20Mastering-%23FF851B.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/UvALWukS/interviews)
+[![My Trello - H4cking Master the Art of Command lines](https://img.shields.io/badge/Trello-H4cking%20Master%20the%20Art%20of%20Command%20lines-%23FF0000.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/p48FfHwJ/h4cking)
 
 -------
 
