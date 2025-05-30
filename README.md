@@ -8,6 +8,23 @@ Python, R, SQL, NLP, Data Analysis, Visualization, AWS
 <img width="1834" alt="Make your README" src="https://github.com/mejbass/mejbass/assets/130122304/71a2ede7-6de0-4c8d-b5b4-4bf5a8d334aa">
 
 -------
+
+## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
+
+[![Using AI to Write Codes: Autocomplete to Autopilot - Working with Coding Assistants](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-using-AI-to-Write-Codes&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-using-AI-to-Write-Codes)
+
+[![Awesome Deep Fake](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-Deep-Fake&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-Deep-Fake)
+
+[![Jailbreaking Censored/Aligned LLMs](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Jailbreaking-Censored-Aligned-LLMs&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Jailbreaking-Censored-Aligned-LLMs)
+
+[![Voices in the Machine - AI Speech Generation](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Voices-in-the-Machine-AI-Speech-Generation&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Voices-in-the-Machine-AI-Speech-Generation)
+
+[![Voice Cloning, Translation & Transcription](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Voice-Cloning-Translation-Transcription&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Voice-Cloning-Translation-Transcription)
+
+[![Build your own Blokchain](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN)
+
+-----
+-------
 <!--START_SECTION:badges-->
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
@@ -57,20 +74,6 @@ To see all the other badges are here: [Credly](https://www.credly.com/users/bass
     <img src="https://github.com/user-attachments/assets/7145ae6c-0743-43c5-8bcd-9d44415b678c" alt="Badge Image" width="120">
 </a>
 
-
-## :octocat: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
-
-[![Using AI to Write Codes: Autocomplete to Autopilot - Working with Coding Assistants](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-using-AI-to-Write-Codes&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-using-AI-to-Write-Codes)
-
-[![Awesome Deep Fake](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-Deep-Fake&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-Deep-Fake)
-
-[![Jailbreaking Censored/Aligned LLMs](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Jailbreaking-Censored-Aligned-LLMs&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Jailbreaking-Censored-Aligned-LLMs)
-
-[![Voices in the Machine - AI Speech Generation](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Voices-in-the-Machine-AI-Speech-Generation&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Voices-in-the-Machine-AI-Speech-Generation)
-
-[![Voice Cloning, Translation & Transcription](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Voice-Cloning-Translation-Transcription&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Voice-Cloning-Translation-Transcription)
-
-[![Build your own Blokchain](https://svg.bookmark.style/api?url=https://github.com/bassamejlaoui/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN&mode=light&style=horizontal)](https://github.com/bassamejlaoui/Awesome-BUILD-YOUR-OWN-BLOCKCHAIN)
 
 -----
 
