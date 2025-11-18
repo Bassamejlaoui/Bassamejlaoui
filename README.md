@@ -134,7 +134,7 @@ This combined content provides a detailed and organized overview of your achieve
   <img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a>
 
-- Check my [Website](https://mejlaouibassam.wixsite.com/bassam-mejlaoui) 🏓
+- Check my [Website](https://bassamejlaoui.github.io/) 🏓
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/bassam-mejlaoui) 
 - My [Portfolio](https://www.datascienceportfol.io/BassamMejlaoui) 💼
 - Contact me on [Twitter](https://x.com/bassamejlaoui) 📫
@@ -156,7 +156,7 @@ This combined content provides a detailed and organized overview of your achieve
 
 
 <!---
-mejbass/mejbass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bassamejlaoui/Bassamejlaoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
