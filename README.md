@@ -130,7 +130,7 @@ To see all the other badges are here: [Credly](https://www.credly.com/users/bass
 
 This combined content provides a detailed and organized overview of your achievements, projects, certifications, education, and professional experiences.
 
-<a href="https://github.com/mejbass">
+<a href="https://github.com/bassamejlaoui">
   <img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </a>
 
