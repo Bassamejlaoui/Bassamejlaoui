@@ -142,12 +142,9 @@ This combined content provides a detailed and organized overview of your achieve
 -------
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassamejlaoui&show_icons=true&locale=en&layout=compact" alt="bassamejlaoui" /></p>
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bassamejlaoui&theme=light)
 
-<p align="left"> <a href="https://github.com/bassamejlaoui/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bassamejlaoui" alt="bassamejlaoui" /></a> </p>
 
 
 <a href="https://github.com/bassamejlaoui">
