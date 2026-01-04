@@ -1,6 +1,8 @@
  ### Hi there! 👋 I'm Bassam Mejlaoui 
 **Data Scientist & Computational Linguist** `Based in`  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
 
+[![Email](https://img.shields.io/badge/-bassamejlaoui@gmail.com-333333?style=flat&logo=gmail&logoColor=white&link=mailto:bassamejlaoui@gmail.comm)](mailto:bassamejlaoui@gmail.com)
+
 Python, R, SQL, NLP, Data Analysis, Visualization, AWS 
 
 :octocat: **RESEARCH INTERESTS:** Data Science, Applied AI, Computational Linguistics and Cognitive Linguistics
