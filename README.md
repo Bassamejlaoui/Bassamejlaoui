@@ -1,7 +1,7 @@
  ### Hi there! 👋 I'm Bassam Mejlaoui 
 **Data Scientist & Computational Linguist** `Based in`  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
 
-I’m currently working on Awesome [Awesome Startup](https://github.com/Bassamejlaoui/startup), [Awesome CEO](https://github.com/Bassamejlaoui/ceo), [Awesome CTO](https://github.com/Bassamejlaoui/cto), [Awesome Investing](https://github.com/Bassamejlaoui/investing), [Awesome-startup-tools-list](https://github.com/Bassamejlaoui/Awesome-startup-tools-list), [Awesome Technical Program Manager](https://github.com/Bassamejlaoui/awesome-technical-Program-Managers), [PlacesToPostYourStartup](https://github.com/Bassamejlaoui/PlacesToPostYourStartup), [Marketign for Founders](https://github.com/Bassamejlaoui/Marketing-for-Founders)
+I’m currently working on Awesome [Awesome Startup](https://github.com/Bassamejlaoui/startup), [Awesome CEO](https://github.com/Bassamejlaoui/ceo), [Awesome CTO](https://github.com/Bassamejlaoui/cto), [Awesome Investing](https://github.com/Bassamejlaoui/investing), [Awesome-startup-tools-list](https://github.com/Bassamejlaoui/Awesome-startup-tools-list), [Awesome Technical Program Manager](https://github.com/Bassamejlaoui/awesome-technical-Program-Managers), [PlacesToPostYourStartup](https://github.com/Bassamejlaoui/PlacesToPostYourStartup), [Marketing for Founders](https://github.com/Bassamejlaoui/Marketing-for-Founders)
 
 [![Email](https://img.shields.io/badge/-bassamejlaoui@gmail.com-333333?style=flat&logo=gmail&logoColor=white&link=mailto:bassamejlaoui@gmail.comm)](mailto:bassamejlaoui@gmail.com)
 
